@@ -114,7 +114,7 @@
 * [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi) ⭐ 273 | 🐛 3 | 📅 2026-06-20
 * [Hemant Joshi](https://github.com/8bithemant/8bithemant) ⭐ 263 | 🐛 4 | 📅 2023-03-02
 * [Jacob Colvin](https://github.com/MacroPower/MacroPower) ⭐ 225 | 🐛 1 | 🌐 Shell | 📅 2026-06-06
-* [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs) ⭐ 140 | 🐛 1 | 🌐 Pug | 📅 2026-05-08
+* [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs) ⭐ 141 | 🐛 1 | 🌐 Pug | 📅 2026-05-08
 * [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98) ⭐ 125 | 🐛 2 | 📅 2024-08-25
 * [Rashmi Jadhav](https://github.com/rusty-sj/rusty-sj) ⭐ 72 | 🐛 0 | 📅 2021-03-15
 * [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun) ⭐ 59 | 🐛 0 | 📅 2025-09-04
@@ -165,7 +165,7 @@
 * [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker) ⭐ 214 | 🐛 0 | 🌐 Python | 📅 2023-05-17
 * [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost) ⭐ 209 | 🐛 1 | 🌐 Go | 📅 2026-07-18
 * [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli) ⭐ 161 | 🐛 2 | 🌐 HTML | 📅 2026-07-13
-* [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs) ⭐ 140 | 🐛 1 | 🌐 Pug | 📅 2026-05-08
+* [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs) ⭐ 141 | 🐛 1 | 🌐 Pug | 📅 2026-05-08
 * [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu) ⭐ 127 | 🐛 0 | 📅 2026-08-15
 * [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007) ⭐ 112 | 🐛 0 | 📅 2024-05-14
 * [Hemanth Kollipara](https://github.com/Defcon27/Defcon27) ⭐ 92 | 🐛 0 | 📅 2024-01-25
@@ -259,7 +259,7 @@
 
 #### Badges 🎫
 
-* [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat) ⭐ 170 | 🐛 0 | 📅 2026-08-18
+* [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat) ⭐ 170 | 🐛 0 | 📅 2026-08-19
 * [Anirudh Emmadi](https://github.com/aemmadi/aemmadi) ⭐ 140 | 🐛 2 | 📅 2024-02-28
 * [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ) ⭐ 108 | 🐛 0 | 📅 2026-06-27
 * [Brendon Smith](https://github.com/br3ndonland/br3ndonland) ⭐ 91 | 🐛 0 | 📅 2025-11-24
@@ -292,14 +292,14 @@
 ## Tools
 
 * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,832 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - Get dynamically generated GitHub stats on your readmes
-* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,638 | 🐛 932 | 🌐 JavaScript | 📅 2026-08-02 -  SVG icons for popular brands for your README.md files
+* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,640 | 🐛 933 | 🌐 JavaScript | 📅 2026-08-02 -  SVG icons for popular brands for your README.md files
 * [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,401 | 🐛 407 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
-* [Markdown Badges](https://github.com/Ileriayo/markdown-badges) ⭐ 16,954 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - Add badges to your profile.
+* [Markdown Badges](https://github.com/Ileriayo/markdown-badges) ⭐ 16,955 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - Add badges to your profile.
 * [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) ⭐ 9,231 | 🐛 69 | 🌐 PHP | 📅 2026-07-19 - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
-* [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,089 | 🐛 77 | 🌐 PHP | 📅 2026-08-06 - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+* [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,090 | 🐛 77 | 🌐 PHP | 📅 2026-08-06 - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 * [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,637 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated GitHub Trophy on your readme
 * [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) ⭐ 3,980 | 🐛 65 | 🌐 Python | 📅 2026-08-04 - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
-* [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) ⭐ 3,437 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
+* [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) ⭐ 3,437 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-10 - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
 * [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) ⭐ 2,201 | 🐛 20 | 🌐 Python | 📅 2026-07-21 - Generate your Spotify now playing card for your GitHub profile
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) ⭐ 1,831 | 🐛 2 | 🌐 Python | 📅 2026-02-18 - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
 * [GitHub Profilinator](https://github.com/rishavanand/github-profilinator) ⚠️ Archived - This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.

@@ -848,7 +848,7 @@
                 "last_commit": "2026-05-08T04:52:22Z",
                 "owner": "jvillegasd",
                 "repo": "Jvillegasd",
-                "stars": 140
+                "stars": 141
               }
             },
             {
@@ -1002,7 +1002,7 @@
                 "archived": false,
                 "id": 278372664,
                 "language": null,
-                "last_commit": "2026-08-19T08:33:42Z",
+                "last_commit": "2026-08-19T11:22:03Z",
                 "owner": "khalby786",
                 "repo": "khalby786",
                 "stars": 197
@@ -1032,7 +1032,7 @@
                 "archived": false,
                 "id": 281173177,
                 "language": "Python",
-                "last_commit": "2026-08-19T08:42:52Z",
+                "last_commit": "2026-08-19T10:30:02Z",
                 "owner": "sciencepal",
                 "repo": "sciencepal",
                 "stars": 158
@@ -1484,7 +1484,7 @@
                 "last_commit": "2026-05-08T04:52:22Z",
                 "owner": "jvillegasd",
                 "repo": "Jvillegasd",
-                "stars": 140
+                "stars": 141
               }
             },
             {
@@ -2573,7 +2573,7 @@
                 "archived": false,
                 "id": 278383856,
                 "language": null,
-                "last_commit": "2026-08-18T12:11:05Z",
+                "last_commit": "2026-08-19T12:10:55Z",
                 "owner": "Coordinate-Cat",
                 "repo": "Coordinate-Cat",
                 "stars": 170
@@ -2901,7 +2901,7 @@
             "last_commit": "2026-08-02T01:27:31Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25638
+            "stars": 25640
           }
         },
         {
@@ -2931,7 +2931,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16954
+            "stars": 16955
           }
         },
         {
@@ -2961,7 +2961,7 @@
             "last_commit": "2026-08-06T07:25:41Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7089
+            "stars": 7090
           }
         },
         {
@@ -3389,8 +3389,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:00:00.517Z",
+    "last_updated": "2026-08-19T12:33:37.326Z",
     "original_repository": "abhisheknaiidu/awesome-github-profile-readme",
+    "original_repository_id": 279064706,
     "original_repository_sha": "7cb2691619d0b8bb3017289c699f3a0d16dc9c70",
     "enhanced_repository": "enhansome/enhansome-github-profile-readme",
     "enhanced_repository_description": null,
