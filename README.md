@@ -13,7 +13,12 @@
 
 <i>A curated list of awesome Github Profile READMEs</i>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a> <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a> <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a> <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a> <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a> <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+[<img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers) ⭐ 30,910 | 🐛 708 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members) ⭐ 30,910 | 🐛 708 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls) ⭐ 30,910 | 🐛 708 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues) ⭐ 30,910 | 🐛 708 | 📅 2026-03-03
+[<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">](https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors) ⭐ 30,910 | 🐛 708 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE) ⭐ 30,910 | 🐛 708 | 📅 2026-03-03
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
@@ -73,7 +78,7 @@
 * [teoxoy](https://github.com/teoxoy/teoxoy) ⚠️ Archived
 * [Moe Poi \~](https://github.com/moepoi/moepoi) ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2024-06-07
 * [Athul Cyriac Ajay](https://github.com/athul/athul) ⭐ 82 | 🐛 0 | 📅 2026-07-05
-* [Leo](https://github.com/mopig/mopig) ⭐ 78 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-27
+* [Leo](https://github.com/mopig/mopig) ⭐ 79 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-27
 * [Akshit Garg (gargakshit)](https://github.com/gargakshit/gargakshit) ⭐ 65 | 🐛 1 | 📅 2024-12-05
 * [Brian Douglas](https://github.com/bdougie/bdougie) ⭐ 51 | 🐛 13 | 🌐 Ruby | 📅 2026-02-23
 * [Rao Hai](https://github.com/RaoHai/RaoHai) ⭐ 49 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-15
@@ -107,7 +112,7 @@
 
 * [Andrew Novac](https://github.com/novatorem/novatorem) ⭐ 753 | 🐛 10 | 🌐 Python | 📅 2026-02-16
 * [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) ⭐ 742 | 🐛 1 | 📅 2026-08-24
-* [Anurag Hazra](https://github.com/anuraghazra/anuraghazra) ⭐ 388 | 🐛 61 | 📅 2023-01-24
+* [Anurag Hazra](https://github.com/anuraghazra/anuraghazra) ⭐ 387 | 🐛 61 | 📅 2023-01-24
 * [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka) ⭐ 294 | 🐛 1 | 📅 2026-04-26
 * [Andrew Young](https://github.com/andyruwruw/andyruwruw) ⭐ 290 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-08
 * [andyruwruw](https://github.com/andyruwruw/andyruwruw) ⭐ 290 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-08
@@ -259,7 +264,7 @@
 
 #### Badges 🎫
 
-* [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat) ⭐ 169 | 🐛 0 | 📅 2026-08-23
+* [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat) ⭐ 169 | 🐛 0 | 📅 2026-08-24
 * [Anirudh Emmadi](https://github.com/aemmadi/aemmadi) ⭐ 140 | 🐛 2 | 📅 2024-02-28
 * [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ) ⭐ 108 | 🐛 0 | 📅 2026-06-27
 * [Brendon Smith](https://github.com/br3ndonland/br3ndonland) ⭐ 91 | 🐛 0 | 📅 2025-11-24
@@ -291,14 +296,14 @@
 
 ## Tools
 
-* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,823 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - Get dynamically generated GitHub stats on your readmes
-* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,706 | 🐛 938 | 🌐 JavaScript | 📅 2026-08-23 -  SVG icons for popular brands for your README.md files
-* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,410 | 🐛 407 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
-* [Markdown Badges](https://github.com/Ileriayo/markdown-badges) ⭐ 16,978 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - Add badges to your profile.
-* [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) ⭐ 9,253 | 🐛 69 | 🌐 PHP | 📅 2026-08-23 - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
-* [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,099 | 🐛 77 | 🌐 PHP | 📅 2026-08-06 - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-* [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,636 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated GitHub Trophy on your readme
-* [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) ⭐ 3,986 | 🐛 66 | 🌐 Python | 📅 2026-08-04 - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
+* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,827 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - Get dynamically generated GitHub stats on your readmes
+* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,707 | 🐛 940 | 🌐 JavaScript | 📅 2026-08-23 -  SVG icons for popular brands for your README.md files
+* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,411 | 🐛 407 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
+* [Markdown Badges](https://github.com/Ileriayo/markdown-badges) ⭐ 16,980 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - Add badges to your profile.
+* [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) ⭐ 9,254 | 🐛 69 | 🌐 PHP | 📅 2026-08-23 - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+* [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,100 | 🐛 77 | 🌐 PHP | 📅 2026-08-06 - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+* [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,637 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated GitHub Trophy on your readme
+* [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) ⭐ 3,986 | 🐛 66 | 🌐 Python | 📅 2026-08-24 - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 * [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) ⭐ 3,441 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
 * [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) ⭐ 2,205 | 🐛 20 | 🌐 Python | 📅 2026-07-21 - Generate your Spotify now playing card for your GitHub profile
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) ⭐ 1,830 | 🐛 2 | 🌐 Python | 📅 2026-02-18 - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
