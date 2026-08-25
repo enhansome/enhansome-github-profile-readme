@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-13T21:42:36Z",
                 "owner": "guilyx",
                 "repo": "guilyx",
-                "stars": 566
+                "stars": 567
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 278299746,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:09:48Z",
+                "last_commit": "2026-08-25T08:29:56Z",
                 "owner": "itgoyo",
                 "repo": "itgoyo",
                 "stars": 286
@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 280620097,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:58:28Z",
+                "last_commit": "2026-08-25T06:37:29Z",
                 "owner": "tw93",
                 "repo": "tw93",
                 "stars": 250
@@ -239,7 +239,7 @@
                 "archived": false,
                 "id": 280353823,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T01:00:09Z",
+                "last_commit": "2026-08-25T06:38:06Z",
                 "owner": "liununu",
                 "repo": "liununu",
                 "stars": 133
@@ -471,7 +471,7 @@
                 "archived": false,
                 "id": 272328835,
                 "language": null,
-                "last_commit": "2026-08-25T01:33:52Z",
+                "last_commit": "2026-08-25T07:56:13Z",
                 "owner": "timburgan",
                 "repo": "timburgan",
                 "stars": 1173
@@ -725,10 +725,10 @@
                 "archived": false,
                 "id": 288654900,
                 "language": null,
-                "last_commit": "2026-08-25T03:18:14Z",
+                "last_commit": "2026-08-25T07:17:26Z",
                 "owner": "DenverCoder1",
                 "repo": "DenverCoder1",
-                "stars": 742
+                "stars": 743
               }
             },
             {
@@ -1002,7 +1002,7 @@
                 "archived": false,
                 "id": 278372664,
                 "language": null,
-                "last_commit": "2026-08-25T05:28:38Z",
+                "last_commit": "2026-08-25T08:38:35Z",
                 "owner": "khalby786",
                 "repo": "khalby786",
                 "stars": 197
@@ -1032,7 +1032,7 @@
                 "archived": false,
                 "id": 281173177,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:37:39Z",
+                "last_commit": "2026-08-25T06:49:43Z",
                 "owner": "sciencepal",
                 "repo": "sciencepal",
                 "stars": 158
@@ -1092,7 +1092,7 @@
                 "archived": false,
                 "id": 278555086,
                 "language": "Markdown",
-                "last_commit": "2026-08-22T19:47:51Z",
+                "last_commit": "2026-08-25T05:58:29Z",
                 "owner": "cheesits456",
                 "repo": "cheesits456",
                 "stars": 125
@@ -2923,7 +2923,7 @@
             "last_commit": "2026-08-23T15:03:04Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25714
+            "stars": 25715
           }
         },
         {
@@ -2938,7 +2938,7 @@
             "last_commit": "2025-10-28T10:27:15Z",
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24414
+            "stars": 24413
           }
         },
         {
@@ -2953,7 +2953,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16981
+            "stars": 16982
           }
         },
         {
@@ -2983,7 +2983,7 @@
             "last_commit": "2026-08-06T07:25:41Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7102
+            "stars": 7103
           }
         },
         {
@@ -3411,7 +3411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:14.127Z",
+    "last_updated": "2026-08-25T09:03:49.711Z",
     "original_repository": "abhisheknaiidu/awesome-github-profile-readme",
     "original_repository_id": 279064706,
     "original_repository_sha": "7cb2691619d0b8bb3017289c699f3a0d16dc9c70",
