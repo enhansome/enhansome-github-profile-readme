@@ -13,12 +13,12 @@
 
 <i>A curated list of awesome Github Profile READMEs</i>
 
-[<img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers) ⭐ 30,945 | 🐛 710 | 📅 2026-03-03
-[<img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members) ⭐ 30,945 | 🐛 710 | 📅 2026-03-03
-[<img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls) ⭐ 30,945 | 🐛 710 | 📅 2026-03-03
-[<img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues) ⭐ 30,945 | 🐛 710 | 📅 2026-03-03
-[<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">](https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors) ⭐ 30,945 | 🐛 710 | 📅 2026-03-03
-[<img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE) ⭐ 30,945 | 🐛 710 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers) ⭐ 30,948 | 🐛 710 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members) ⭐ 30,948 | 🐛 710 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls) ⭐ 30,948 | 🐛 710 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues) ⭐ 30,948 | 🐛 710 | 📅 2026-03-03
+[<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">](https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors) ⭐ 30,948 | 🐛 710 | 📅 2026-03-03
+[<img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/>](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE) ⭐ 30,948 | 🐛 710 | 📅 2026-03-03
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
@@ -64,13 +64,13 @@
 * [itgoyo](https://github.com/itgoyo/itgoyo) ⭐ 286 | 🐛 1 | 🌐 Python | 📅 2026-08-29
 * [Yufan You](https://github.com/ouuan/ouuan) ⭐ 265 | 🐛 2 | 🌐 Python | 📅 2026-08-29
 * [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar) ⭐ 261 | 🐛 0 | 📅 2026-08-09
-* [侑夕-Tw93](https://github.com/tw93/tw93) ⭐ 250 | 🐛 0 | 🌐 HTML | 📅 2026-08-28
+* [侑夕-Tw93](https://github.com/tw93/tw93) ⭐ 250 | 🐛 0 | 🌐 HTML | 📅 2026-08-29
 * [Elon Tang (blackcater)](https://github.com/blackcater/blackcater) ⭐ 194 | 🐛 14 | 🌐 JavaScript | 📅 2026-07-23
 * [lifeparticle](https://github.com/lifeparticle/lifeparticle) ⭐ 193 | 🐛 2 | 🌐 Python | 📅 2026-08-24
 * [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86) ⭐ 179 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-03
 * [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8) ⭐ 150 | 🐛 388 | 🌐 Ruby | 📅 2024-01-05
 * [Shawn Wang](https://github.com/sw-yx/sw-yx) ⭐ 145 | 🐛 54 | 🌐 Python | 📅 2026-08-22
-* [liununu](https://github.com/liununu/liununu) ⭐ 133 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28
+* [liununu](https://github.com/liununu/liununu) ⭐ 133 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-29
 * [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps) ⭐ 132 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-09
 * [Aral Roca](https://github.com/aralroca/aralroca) ⭐ 107 | 🐛 0 | 🌐 Rust | 📅 2026-03-29
 * [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary) ⭐ 104 | 🐛 1 | 🌐 Python | 📅 2026-08-28
@@ -100,7 +100,7 @@
 
 #### Code Mode 👨🏽‍💻
 
-* [Anmol Singh](https://github.com/anmol098/anmol098) ⭐ 685 | 🐛 3 | 📅 2026-08-28
+* [Anmol Singh](https://github.com/anmol098/anmol098) ⭐ 685 | 🐛 3 | 📅 2026-08-29
 * [Thaiane Braga](https://github.com/Thaiane/Thaiane) ⭐ 269 | 🐛 5 | 📅 2025-03-18
 * [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na) ⭐ 115 | 🐛 0 | 📅 2026-07-20
 * [Marton](https://github.com/martonlederer/martonlederer) ⭐ 110 | 🐛 3 | 📅 2023-12-14
@@ -134,18 +134,18 @@
 * [Adam Alston](https://github.com/adamalston/adamalston) ⭐ 263 | 🐛 0 | 📅 2026-08-18
 * [Raymond Li](https://github.com/Raymo111/Raymo111) ⭐ 260 | 🐛 2 | 🌐 R | 📅 2026-08-11
 * [Khaleel Gibran](https://github.com/khalby786/khalby786) ⭐ 197 | 🐛 1 | 📅 2026-08-29
-* [Apoorv Tyagi](https://github.com/apoorvtyagi/apoorvtyagi) ⭐ 164 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28
+* [Apoorv Tyagi](https://github.com/apoorvtyagi/apoorvtyagi) ⭐ 164 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-29
 * [Aditya Pal](https://github.com/sciencepal/sciencepal) ⭐ 158 | 🐛 8 | 🌐 Python | 📅 2026-08-29
 * [Miller Camilo Vega](https://github.com/minoveaz/minoveaz) ⭐ 136 | 🐛 2 | 📅 2026-08-29
 * [Rafnix Guzmán](https://github.com/rafnixg/rafnixg) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-06-23
-* [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom) ⭐ 133 | 🐛 0 | 🌐 Markdown | 📅 2026-08-28
+* [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom) ⭐ 133 | 🐛 0 | 🌐 Markdown | 📅 2026-08-29
 * [Quin Knight](https://github.com/cheesits456/cheesits456) ⭐ 125 | 🐛 0 | 🌐 Markdown | 📅 2026-08-29
 * [Hedy Li](https://github.com/hedythedev/hedythedev) ⭐ 113 | 🐛 0 | 📅 2025-06-10
 * [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10) ⭐ 111 | 🐛 3 | 📅 2021-10-13
 * [Xunzhuo](https://github.com/xunzhuo/xunzhuo) ⭐ 81 | 🐛 1 | 📅 2026-08-02
 * [Clayton Hamilton](https://github.com/claytonjhamilton/claytonjhamilton) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2026-08-28
 * [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999) ⭐ 60 | 🐛 2 | 📅 2024-02-02
-* [holic-x](https://github.com/holic-x/holic-x) ⭐ 52 | 🐛 0 | 📅 2026-08-28
+* [holic-x](https://github.com/holic-x/holic-x) ⭐ 52 | 🐛 0 | 📅 2026-08-29
 * [Sy Rashid](https://github.com/syrashid/syrashid) ⭐ 24 | 🐛 0 | 📅 2026-01-06
 * [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm) ⭐ 17 | 🐛 0 | 📅 2025-12-21
 * [Magrelaio](https://github.com/Magrelaio/Magrelaio) ⭐ 3 | 🐛 0 | 📅 2026-05-11
@@ -195,7 +195,7 @@
 
 * [Mpho Mphego](https://github.com/mmphego/mmphego) ⭐ 332 | 🐛 0 | 🌐 HTML | 📅 2026-08-01
 * [CyrisXD](https://github.com/CyrisXD/CyrisXD) ⭐ 195 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-22
-* [Mathieu Ledru](https://github.com/matyo91/matyo91) ⭐ 132 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28
+* [Mathieu Ledru](https://github.com/matyo91/matyo91) ⭐ 132 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-29
 * [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak) ⭐ 110 | 🐛 3 | 📅 2026-02-21
 * [Mason Slover](https://github.com/MasonSlover/MasonSlover) ⭐ 56 | 🐛 0 | 🌐 Processing | 📅 2021-06-01
 * [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng) ⭐ 53 | 🐛 0 | 📅 2025-12-07
@@ -234,7 +234,7 @@
 
 * [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus) ⭐ 478 | 🐛 0 | 📅 2024-11-02
 * [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram) ⭐ 111 | 🐛 1 | 📅 2023-01-16
-* [xrkffgg](https://github.com/xrkffgg/xrkffgg) ⭐ 98 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-28
+* [xrkffgg](https://github.com/xrkffgg/xrkffgg) ⭐ 98 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-29
 * [Ari](https://github.com/ari-hacks/ari-hacks) ⭐ 93 | 🐛 0 | 📅 2023-05-12
 * [Somnath Paul](https://github.com/SP-XD/SP-XD) ⭐ 92 | 🐛 7 | 📅 2025-09-26
 * [Raghav Khullar](https://github.com/RaghavK16/RaghavK16) ⭐ 83 | 🐛 0 | 📅 2025-11-17
@@ -256,7 +256,7 @@
 #### Just Images 🎭
 
 * [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t) ⭐ 134 | 🐛 0 | 📅 2026-05-30
-* [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto) ⭐ 91 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-28
+* [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto) ⭐ 91 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-29
 * [偏右](https://github.com/afc163/afc163) ⭐ 89 | 🐛 1 | 📅 2026-08-03
 * [Akash Rai](https://github.com/akasrai/akasrai) ⭐ 58 | 🐛 2 | 📅 2026-08-11
 * [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi) ⭐ 46 | 🐛 0 | 📅 2023-03-31
@@ -264,7 +264,7 @@
 
 #### Badges 🎫
 
-* [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat) ⭐ 169 | 🐛 0 | 📅 2026-08-28
+* [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat) ⭐ 169 | 🐛 0 | 📅 2026-08-29
 * [Anirudh Emmadi](https://github.com/aemmadi/aemmadi) ⭐ 140 | 🐛 2 | 📅 2024-02-28
 * [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ) ⭐ 108 | 🐛 0 | 📅 2026-06-27
 * [Brendon Smith](https://github.com/br3ndonland/br3ndonland) ⭐ 91 | 🐛 0 | 📅 2025-11-24
@@ -297,12 +297,12 @@
 ## Tools
 
 * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,843 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - Get dynamically generated GitHub stats on your readmes
-* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,744 | 🐛 946 | 🌐 JavaScript | 📅 2026-08-29 -  SVG icons for popular brands for your README.md files
-* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,421 | 🐛 408 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
+* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,745 | 🐛 947 | 🌐 JavaScript | 📅 2026-08-29 -  SVG icons for popular brands for your README.md files
+* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,424 | 🐛 408 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 * [Markdown Badges](https://github.com/Ileriayo/markdown-badges) ⭐ 16,993 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - Add badges to your profile.
-* [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) ⭐ 9,270 | 🐛 70 | 🌐 PHP | 📅 2026-08-23 - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
-* [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,111 | 🐛 78 | 🌐 PHP | 📅 2026-08-28 - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-* [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,639 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated GitHub Trophy on your readme
+* [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) ⭐ 9,273 | 🐛 70 | 🌐 PHP | 📅 2026-08-23 - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+* [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,112 | 🐛 78 | 🌐 PHP | 📅 2026-08-28 - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+* [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,640 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated GitHub Trophy on your readme
 * [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) ⭐ 3,985 | 🐛 68 | 🌐 Python | 📅 2026-08-24 - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 * [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) ⭐ 3,441 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
 * [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) ⭐ 2,208 | 🐛 20 | 🌐 Python | 📅 2026-07-21 - Generate your Spotify now playing card for your GitHub profile
