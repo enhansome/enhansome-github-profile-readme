@@ -152,7 +152,7 @@
                 "id": 278299746,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-02T08:37:14Z",
+                "last_commit": "2026-10-03T08:34:28Z",
                 "open_issues": 1,
                 "owner": "itgoyo",
                 "repo": "itgoyo",
@@ -230,7 +230,7 @@
                 "id": 280620097,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:29:12Z",
+                "last_commit": "2026-10-03T10:59:55Z",
                 "open_issues": 0,
                 "owner": "tw93",
                 "repo": "tw93",
@@ -421,7 +421,7 @@
                 "id": 280353823,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-03T03:34:19Z",
+                "last_commit": "2026-10-03T11:01:04Z",
                 "open_issues": 0,
                 "owner": "liununu",
                 "repo": "liununu",
@@ -746,7 +746,7 @@
                 "id": 272328835,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-03T04:13:54Z",
+                "last_commit": "2026-10-03T07:12:43Z",
                 "open_issues": 7,
                 "owner": "timburgan",
                 "repo": "timburgan",
@@ -814,7 +814,7 @@
                 "id": 281332666,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-01T19:17:18Z",
+                "last_commit": "2026-10-03T12:25:32Z",
                 "open_issues": 18,
                 "owner": "rossjrw",
                 "repo": "rossjrw",
@@ -942,7 +942,7 @@
                 "id": 279555795,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-02T05:48:30Z",
+                "last_commit": "2026-10-03T05:36:52Z",
                 "open_issues": 3,
                 "owner": "anmol098",
                 "repo": "anmol098",
@@ -1154,7 +1154,7 @@
                 "id": 288654900,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-03T01:21:05Z",
+                "last_commit": "2026-10-03T07:15:19Z",
                 "open_issues": 1,
                 "owner": "DenverCoder1",
                 "repo": "DenverCoder1",
@@ -1190,7 +1190,7 @@
                 "open_issues": 61,
                 "owner": "anuraghazra",
                 "repo": "anuraghazra",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -1669,7 +1669,7 @@
                 "id": 278372664,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-03T00:55:25Z",
+                "last_commit": "2026-10-03T12:13:38Z",
                 "open_issues": 1,
                 "owner": "khalby786",
                 "repo": "khalby786",
@@ -1690,7 +1690,7 @@
                 "id": 277297834,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-03T02:52:34Z",
+                "last_commit": "2026-10-03T05:35:04Z",
                 "open_issues": 0,
                 "owner": "ApoorvTyagi",
                 "repo": "ApoorvTyagi",
@@ -1711,7 +1711,7 @@
                 "id": 281173177,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T03:18:31Z",
+                "last_commit": "2026-10-03T10:16:25Z",
                 "open_issues": 8,
                 "owner": "sciencepal",
                 "repo": "sciencepal",
@@ -1721,31 +1721,6 @@
                   "readme",
                   "readme-template",
                   "update"
-                ]
-              },
-              "first_seen": "2026-08-28T20:14:47.047Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Rafnix Guzmán",
-              "description": "rafnixg/rafnixg",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Personal README for GitHub Profile",
-                "homepage": "https://github.com/rafnixg",
-                "id": 278255561,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-27T17:25:18Z",
-                "open_issues": 0,
-                "owner": "rafnixg",
-                "repo": "rafnixg",
-                "stars": 136,
-                "topics": [
-                  "python",
-                  "readme",
-                  "readme-profile"
                 ]
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -1772,6 +1747,31 @@
                   "readme-badges",
                   "readme-profile",
                   "readme-template"
+                ]
+              },
+              "first_seen": "2026-08-28T20:14:47.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Rafnix Guzmán",
+              "description": "rafnixg/rafnixg",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Personal README for GitHub Profile",
+                "homepage": "https://github.com/rafnixg",
+                "id": 278255561,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-27T17:25:18Z",
+                "open_issues": 0,
+                "owner": "rafnixg",
+                "repo": "rafnixg",
+                "stars": 135,
+                "topics": [
+                  "python",
+                  "readme",
+                  "readme-profile"
                 ]
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2912,7 +2912,7 @@
                 "id": 278464483,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:40:24Z",
+                "last_commit": "2026-10-03T06:01:44Z",
                 "open_issues": 0,
                 "owner": "matyo91",
                 "repo": "matyo91",
@@ -3226,7 +3226,7 @@
                 "id": 279689373,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-27T11:11:45Z",
+                "last_commit": "2026-10-03T11:26:01Z",
                 "open_issues": 0,
                 "owner": "orhun",
                 "repo": "orhun",
@@ -4225,32 +4225,6 @@
             },
             {
               "node_type": "item",
-              "title": "Alwin Wang",
-              "description": "alwinw/alwinw",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "👨‍💻 About @alwinw",
-                "homepage": null,
-                "id": 280372596,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2021-04-05T12:32:26Z",
-                "open_issues": 1,
-                "owner": "alwinw",
-                "repo": "alwinw",
-                "stars": 79,
-                "topics": [
-                  "profile",
-                  "readme",
-                  "readme-md",
-                  "svg-animations"
-                ]
-              },
-              "first_seen": "2026-08-28T20:14:47.047Z"
-            },
-            {
-              "node_type": "item",
               "title": "Ileriayo Adebiyi",
               "description": "Ileriayo/ileriayo",
               "children": [],
@@ -4267,6 +4241,32 @@
                 "repo": "ileriayo",
                 "stars": 79,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T20:14:47.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Alwin Wang",
+              "description": "alwinw/alwinw",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "👨‍💻 About @alwinw",
+                "homepage": null,
+                "id": 280372596,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2021-04-05T12:32:26Z",
+                "open_issues": 1,
+                "owner": "alwinw",
+                "repo": "alwinw",
+                "stars": 78,
+                "topics": [
+                  "profile",
+                  "readme",
+                  "readme-md",
+                  "svg-animations"
+                ]
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
             },
@@ -4682,7 +4682,7 @@
             "open_issues": 977,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25951,
+            "stars": 25953,
             "topics": [
               "brand",
               "brand-assets",
@@ -4723,7 +4723,7 @@
             "open_issues": 406,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24449,
+            "stars": 24448,
             "topics": [
               "gatsby",
               "generator",
@@ -4752,7 +4752,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17092,
+            "stars": 17093,
             "topics": [
               "badges-markdown",
               "branding",
@@ -4781,7 +4781,7 @@
             "open_issues": 32,
             "owner": "DenverCoder1",
             "repo": "readme-typing-svg",
-            "stars": 9385,
+            "stars": 9388,
             "topics": [
               "animation",
               "dynamic",
@@ -4843,7 +4843,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
             "stars": 6666,
@@ -5566,8 +5566,8 @@
             "id": 1173467302,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:40:02Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-03T10:45:14Z",
+            "open_issues": 28,
             "owner": "rowkavdev",
             "repo": "GitHub-profile-stats",
             "stars": 45,
@@ -5826,7 +5826,7 @@
             "id": 1324327913,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:21:53Z",
+            "last_commit": "2026-10-03T11:49:58Z",
             "open_issues": 0,
             "owner": "prsdx",
             "repo": "YourTomo",
@@ -6120,7 +6120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:04.587Z",
+    "last_updated": "2026-10-03T13:31:20.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome GitHub Profile which updates in real time ",
@@ -6132,7 +6132,7 @@
       "open_issues": 704,
       "owner": "abhisheknaiidu",
       "repo": "awesome-github-profile-readme",
-      "stars": 31242,
+      "stars": 31244,
       "topics": [
         "awesome",
         "awesome-list",
