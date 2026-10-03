@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "codeSTACKr",
-              "description": null,
+              "description": "codeSTACKr/codeSTACKr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Erwin Lejeune",
-              "description": null,
+              "description": "guilyx/guilyx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -54,7 +54,7 @@
             {
               "node_type": "item",
               "title": "Thomas Guibert",
-              "description": null,
+              "description": "thmsgbrt/thmsgbrt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -75,7 +75,7 @@
             {
               "node_type": "item",
               "title": "Abhishek Naidu",
-              "description": null,
+              "description": "abhisheknaiidu/abhisheknaiidu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -96,7 +96,7 @@
             {
               "node_type": "item",
               "title": "Simon Willison",
-              "description": null,
+              "description": "simonw/simonw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -122,7 +122,7 @@
             {
               "node_type": "item",
               "title": "Mike Coutermarsh",
-              "description": null,
+              "description": "mscoutermarsh/mscoutermarsh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -143,7 +143,7 @@
             {
               "node_type": "item",
               "title": "itgoyo",
-              "description": null,
+              "description": "itgoyo/itgoyo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -169,7 +169,7 @@
             {
               "node_type": "item",
               "title": "Yufan You",
-              "description": null,
+              "description": "ouuan/ouuan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -178,7 +178,7 @@
                 "id": 281622676,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T23:37:29Z",
+                "last_commit": "2026-10-02T23:29:38Z",
                 "open_issues": 2,
                 "owner": "ouuan",
                 "repo": "ouuan",
@@ -197,7 +197,7 @@
             {
               "node_type": "item",
               "title": "Gautam Krishna R",
-              "description": null,
+              "description": "gautamkrishnar/gautamkrishnar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "侑夕-Tw93",
-              "description": null,
+              "description": "tw93/tw93",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -230,7 +230,7 @@
                 "id": 280620097,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T11:46:18Z",
+                "last_commit": "2026-10-03T03:29:12Z",
                 "open_issues": 0,
                 "owner": "tw93",
                 "repo": "tw93",
@@ -242,7 +242,7 @@
             {
               "node_type": "item",
               "title": "Elon Tang (blackcater)",
-              "description": null,
+              "description": "blackcater/blackcater",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -255,7 +255,7 @@
                 "open_issues": 15,
                 "owner": "blackcater",
                 "repo": "blackcater",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "github-actions",
                   "github-profile",
@@ -269,7 +269,7 @@
             {
               "node_type": "item",
               "title": "lifeparticle",
-              "description": null,
+              "description": "lifeparticle/lifeparticle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "Stanley Lim (Spiderpig86)",
-              "description": null,
+              "description": "Spiderpig86/Spiderpig86",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -334,7 +334,7 @@
             {
               "node_type": "item",
               "title": "Jessica Lim",
-              "description": null,
+              "description": "JessicaLim8/JessicaLim8",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,7 +347,7 @@
                 "open_issues": 393,
                 "owner": "JessicaLim8",
                 "repo": "JessicaLim8",
-                "stars": 153,
+                "stars": 152,
                 "topics": [
                   "game",
                   "readme",
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "Shawn Wang",
-              "description": null,
+              "description": "swyxio/swyxio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -368,7 +368,7 @@
                 "id": 278241792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T00:06:39Z",
+                "last_commit": "2026-10-03T00:07:10Z",
                 "open_issues": 56,
                 "owner": "swyxio",
                 "repo": "swyxio",
@@ -383,7 +383,7 @@
             {
               "node_type": "item",
               "title": "Michael Hoffmann (Mokkapps)",
-              "description": null,
+              "description": "Mokkapps/mokkapps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -412,7 +412,7 @@
             {
               "node_type": "item",
               "title": "liununu",
-              "description": null,
+              "description": "liununu/liununu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -421,7 +421,7 @@
                 "id": 280353823,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-02T11:47:37Z",
+                "last_commit": "2026-10-03T03:34:19Z",
                 "open_issues": 0,
                 "owner": "liununu",
                 "repo": "liununu",
@@ -433,7 +433,7 @@
             {
               "node_type": "item",
               "title": "Aral Roca",
-              "description": null,
+              "description": "aralroca/aralroca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -458,7 +458,7 @@
             {
               "node_type": "item",
               "title": "Roald Nefs",
-              "description": null,
+              "description": "roaldnefs/roaldnefs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -484,7 +484,7 @@
             {
               "node_type": "item",
               "title": "Vidya Bhandary",
-              "description": null,
+              "description": "vidyabhandary/vidyabhandary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -510,7 +510,7 @@
             {
               "node_type": "item",
               "title": "teoxoy",
-              "description": null,
+              "description": "teoxoy/teoxoy",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -531,7 +531,7 @@
             {
               "node_type": "item",
               "title": "Moe Poi ~",
-              "description": null,
+              "description": "moepoi/moepoi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -552,7 +552,7 @@
             {
               "node_type": "item",
               "title": "Athul Cyriac Ajay",
-              "description": null,
+              "description": "athul/athul",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -573,7 +573,7 @@
             {
               "node_type": "item",
               "title": "Leo",
-              "description": null,
+              "description": "mopig/mopig",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -598,7 +598,7 @@
             {
               "node_type": "item",
               "title": "Akshit Garg (gargakshit)",
-              "description": null,
+              "description": "gargakshit/gargakshit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -621,7 +621,7 @@
             {
               "node_type": "item",
               "title": "Brian Douglas",
-              "description": null,
+              "description": "bdougie/bdougie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -642,7 +642,7 @@
             {
               "node_type": "item",
               "title": "Rao Hai",
-              "description": null,
+              "description": "RaoHai/RaoHai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -663,7 +663,7 @@
             {
               "node_type": "item",
               "title": "Danny Koppenhagen",
-              "description": null,
+              "description": "d-koppenhagen/d-koppenhagen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -684,7 +684,7 @@
             {
               "node_type": "item",
               "title": "Filippo Rossi (qu4k)",
-              "description": null,
+              "description": "notfilippo/notfilippo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -709,7 +709,7 @@
             {
               "node_type": "item",
               "title": "Jatin Rao",
-              "description": null,
+              "description": "jatin2003/jatin2003",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -737,7 +737,7 @@
             {
               "node_type": "item",
               "title": "Tim Burgan",
-              "description": null,
+              "description": "timburgan/timburgan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -746,7 +746,7 @@
                 "id": 272328835,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-02T13:38:03Z",
+                "last_commit": "2026-10-03T04:13:54Z",
                 "open_issues": 7,
                 "owner": "timburgan",
                 "repo": "timburgan",
@@ -758,7 +758,7 @@
             {
               "node_type": "item",
               "title": "Jonathan Gin",
-              "description": null,
+              "description": "JonathanGin52/JonathanGin52",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -767,7 +767,7 @@
                 "id": 278535900,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-09-30T14:26:33Z",
+                "last_commit": "2026-10-03T03:07:10Z",
                 "open_issues": 14,
                 "owner": "JonathanGin52",
                 "repo": "JonathanGin52",
@@ -779,7 +779,7 @@
             {
               "node_type": "item",
               "title": "marcizhu",
-              "description": null,
+              "description": "marcizhu/marcizhu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -788,7 +788,7 @@
                 "id": 322606147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T19:42:42Z",
+                "last_commit": "2026-10-03T00:56:53Z",
                 "open_issues": 1,
                 "owner": "marcizhu",
                 "repo": "marcizhu",
@@ -805,7 +805,7 @@
             {
               "node_type": "item",
               "title": "Ross Williams",
-              "description": null,
+              "description": "rossjrw/rossjrw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -835,7 +835,7 @@
             {
               "node_type": "item",
               "title": "Kavish Hukmani",
-              "description": null,
+              "description": "DoubleGremlin181/DoubleGremlin181",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "Aaron Liu",
-              "description": null,
+              "description": "HFO4/HFO4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -881,7 +881,7 @@
             {
               "node_type": "item",
               "title": "kylepls",
-              "description": null,
+              "description": "kylepls/kylepls",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -905,7 +905,7 @@
             {
               "node_type": "item",
               "title": "Ben Sampica",
-              "description": null,
+              "description": "benjaminsampica/benjaminsampica",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -933,7 +933,7 @@
             {
               "node_type": "item",
               "title": "Anmol Singh",
-              "description": null,
+              "description": "anmol098/anmol098",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -959,7 +959,7 @@
             {
               "node_type": "item",
               "title": "Thaiane Braga",
-              "description": null,
+              "description": "Thaiane/Thaiane",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -980,7 +980,7 @@
             {
               "node_type": "item",
               "title": "Zhenye Na",
-              "description": null,
+              "description": "Zhenye-Na/zhenye-na",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1003,7 +1003,7 @@
             {
               "node_type": "item",
               "title": "Marton",
-              "description": null,
+              "description": "martonlederer/old-profile-readme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1024,7 +1024,7 @@
             {
               "node_type": "item",
               "title": "Redowan Delowar",
-              "description": null,
+              "description": "rednafi/rednafi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1051,7 +1051,7 @@
             {
               "node_type": "item",
               "title": "Ash Baker",
-              "description": null,
+              "description": "justashton/justashton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "Kiho",
-              "description": null,
+              "description": "monkindey/monkindey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "Ahmad Munir",
-              "description": null,
+              "description": "ddroid/ddroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1121,7 +1121,7 @@
             {
               "node_type": "item",
               "title": "Andrew Novac",
-              "description": null,
+              "description": "novatorem/novatorem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1145,7 +1145,7 @@
             {
               "node_type": "item",
               "title": "DenverCoder1",
-              "description": null,
+              "description": "DenverCoder1/DenverCoder1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1154,7 +1154,7 @@
                 "id": 288654900,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-02T06:13:27Z",
+                "last_commit": "2026-10-03T01:21:05Z",
                 "open_issues": 1,
                 "owner": "DenverCoder1",
                 "repo": "DenverCoder1",
@@ -1177,7 +1177,7 @@
             {
               "node_type": "item",
               "title": "Anurag Hazra",
-              "description": null,
+              "description": "anuraghazra/anuraghazra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1198,7 +1198,7 @@
             {
               "node_type": "item",
               "title": "Osman Durdağ",
-              "description": null,
+              "description": "zumrudu-anka/zumrudu-anka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1230,7 +1230,7 @@
             {
               "node_type": "item",
               "title": "Andrew Young",
-              "description": null,
+              "description": "andyruwruw/andyruwruw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1257,7 +1257,7 @@
             {
               "node_type": "item",
               "title": "andyruwruw",
-              "description": null,
+              "description": "andyruwruw/andyruwruw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1284,7 +1284,7 @@
             {
               "node_type": "item",
               "title": "iampavangandhi",
-              "description": null,
+              "description": "iampavangandhi/iampavangandhi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1318,7 +1318,7 @@
             {
               "node_type": "item",
               "title": "Hemant Joshi",
-              "description": null,
+              "description": "mayhemantt/mayhemantt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1356,7 +1356,7 @@
             {
               "node_type": "item",
               "title": "Jacob Colvin",
-              "description": null,
+              "description": "MacroPower/MacroPower",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1377,7 +1377,7 @@
             {
               "node_type": "item",
               "title": "Johnny Villegas",
-              "description": null,
+              "description": "jvillegasd/Jvillegasd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1414,7 +1414,7 @@
             {
               "node_type": "item",
               "title": "Rahul Jha",
-              "description": null,
+              "description": "rahul-jha98/rahul-jha98",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1435,7 +1435,7 @@
             {
               "node_type": "item",
               "title": "Rashmi Jadhav",
-              "description": null,
+              "description": "rusty-sj/rusty-sj",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1456,7 +1456,7 @@
             {
               "node_type": "item",
               "title": "Taehyun Hwang",
-              "description": null,
+              "description": "HwangTaehyun/HwangTaehyun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1477,7 +1477,7 @@
             {
               "node_type": "item",
               "title": "Dani Akash",
-              "description": null,
+              "description": "DaniAkash/DaniAkash",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1498,7 +1498,7 @@
             {
               "node_type": "item",
               "title": "Kittinan",
-              "description": null,
+              "description": "kittinan/kittinan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1526,7 +1526,7 @@
             {
               "node_type": "item",
               "title": "Trini B",
-              "description": null,
+              "description": "trinib/trinib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1568,7 +1568,7 @@
             {
               "node_type": "item",
               "title": "Martin Heinz",
-              "description": null,
+              "description": "MartinHeinz/MartinHeinz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1597,7 +1597,7 @@
             {
               "node_type": "item",
               "title": "Raymond Li",
-              "description": null,
+              "description": "Raymo111/Raymo111",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1639,7 +1639,7 @@
             {
               "node_type": "item",
               "title": "Adam Alston",
-              "description": null,
+              "description": "adamalston/adamalston",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1660,7 +1660,7 @@
             {
               "node_type": "item",
               "title": "Khaleel Gibran",
-              "description": null,
+              "description": "khalby786/khalby786",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1669,7 +1669,7 @@
                 "id": 278372664,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-02T09:21:19Z",
+                "last_commit": "2026-10-03T00:55:25Z",
                 "open_issues": 1,
                 "owner": "khalby786",
                 "repo": "khalby786",
@@ -1681,7 +1681,7 @@
             {
               "node_type": "item",
               "title": "Apoorv Tyagi",
-              "description": null,
+              "description": "ApoorvTyagi/ApoorvTyagi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1690,7 +1690,7 @@
                 "id": 277297834,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-02T05:59:40Z",
+                "last_commit": "2026-10-03T02:52:34Z",
                 "open_issues": 0,
                 "owner": "ApoorvTyagi",
                 "repo": "ApoorvTyagi",
@@ -1702,7 +1702,7 @@
             {
               "node_type": "item",
               "title": "Aditya Pal",
-              "description": null,
+              "description": "sciencepal/sciencepal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1711,7 +1711,7 @@
                 "id": 281173177,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:18:58Z",
+                "last_commit": "2026-10-03T03:18:31Z",
                 "open_issues": 8,
                 "owner": "sciencepal",
                 "repo": "sciencepal",
@@ -1728,7 +1728,7 @@
             {
               "node_type": "item",
               "title": "Rafnix Guzmán",
-              "description": null,
+              "description": "rafnixg/rafnixg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1753,7 +1753,7 @@
             {
               "node_type": "item",
               "title": "Miller Camilo Vega",
-              "description": null,
+              "description": "minoveaz/minoveaz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1762,7 +1762,7 @@
                 "id": 278625481,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-01T18:48:18Z",
+                "last_commit": "2026-10-02T18:46:51Z",
                 "open_issues": 2,
                 "owner": "minoveaz",
                 "repo": "minoveaz",
@@ -1779,7 +1779,7 @@
             {
               "node_type": "item",
               "title": "CxyFreedom",
-              "description": null,
+              "description": "cxyfreedom/cxyfreedom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1788,7 +1788,7 @@
                 "id": 284056602,
                 "language": "Markdown",
                 "license": null,
-                "last_commit": "2026-10-02T05:19:19Z",
+                "last_commit": "2026-10-03T04:10:23Z",
                 "open_issues": 0,
                 "owner": "cxyfreedom",
                 "repo": "cxyfreedom",
@@ -1800,7 +1800,7 @@
             {
               "node_type": "item",
               "title": "Quin Knight",
-              "description": null,
+              "description": "cheesits456/cheesits456",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1821,7 +1821,7 @@
             {
               "node_type": "item",
               "title": "Hedy Li",
-              "description": null,
+              "description": "hedyhli/hedyhli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1845,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "Abhishek Maira",
-              "description": null,
+              "description": "AbhishekMaira10/AbhishekMaira10",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1873,7 +1873,7 @@
             {
               "node_type": "item",
               "title": "Xunzhuo",
-              "description": null,
+              "description": "Xunzhuo/Xunzhuo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1894,7 +1894,7 @@
             {
               "node_type": "item",
               "title": "Clayton Hamilton",
-              "description": null,
+              "description": "claytonjhamilton/claytonjhamilton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1903,7 +1903,7 @@
                 "id": 312890338,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-02T01:16:06Z",
+                "last_commit": "2026-10-03T00:54:16Z",
                 "open_issues": 3,
                 "owner": "claytonjhamilton",
                 "repo": "claytonjhamilton",
@@ -1915,7 +1915,7 @@
             {
               "node_type": "item",
               "title": "Jackyu-1999",
-              "description": null,
+              "description": "Jackyu-1999/Jackyu-1999",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1936,7 +1936,7 @@
             {
               "node_type": "item",
               "title": "holic-x",
-              "description": null,
+              "description": "holic-x/holic-x",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1945,7 +1945,7 @@
                 "id": 418752305,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-02T04:51:27Z",
+                "last_commit": "2026-10-03T04:34:20Z",
                 "open_issues": 0,
                 "owner": "holic-x",
                 "repo": "holic-x",
@@ -1957,7 +1957,7 @@
             {
               "node_type": "item",
               "title": "Sy Rashid",
-              "description": null,
+              "description": "syrashid/syrashid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1978,7 +1978,7 @@
             {
               "node_type": "item",
               "title": "Rak Laptudirm",
-              "description": null,
+              "description": "raklaptudirm/raklaptudirm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1999,7 +1999,7 @@
             {
               "node_type": "item",
               "title": "Magrelaio",
-              "description": null,
+              "description": "Magrelaio/Magrelaio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,7 +2030,7 @@
             {
               "node_type": "item",
               "title": "Nguyễn Hoàng Dương",
-              "description": null,
+              "description": "cszach/cszach",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2057,7 +2057,7 @@
             {
               "node_type": "item",
               "title": "Keshav Singh",
-              "description": null,
+              "description": "keshavsingh3197/keshavsingh3197",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2086,7 +2086,7 @@
             {
               "node_type": "item",
               "title": "Garima Singh",
-              "description": null,
+              "description": "garimasingh128/garimasingh128",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2112,7 +2112,7 @@
             {
               "node_type": "item",
               "title": "Filip Troníček",
-              "description": null,
+              "description": "filiptronicek/filiptronicek",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2133,7 +2133,7 @@
             {
               "node_type": "item",
               "title": "Saksham Taneja",
-              "description": null,
+              "description": "sakshamtaneja21/sakshamtaneja21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2154,7 +2154,7 @@
             {
               "node_type": "item",
               "title": "lizheming",
-              "description": null,
+              "description": "lizheming/lizheming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2175,7 +2175,7 @@
             {
               "node_type": "item",
               "title": "TheAbbie",
-              "description": null,
+              "description": "theabbie/theabbie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2199,7 +2199,7 @@
             {
               "node_type": "item",
               "title": "Dani El-Ayyass",
-              "description": null,
+              "description": "dayyass/dayyass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2230,7 +2230,7 @@
             {
               "node_type": "item",
               "title": "Nanra Sukedy",
-              "description": null,
+              "description": "Nanra/Nanra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2251,7 +2251,7 @@
             {
               "node_type": "item",
               "title": "Vidur Satija",
-              "description": null,
+              "description": "vidursatija/vidursatija",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2283,7 +2283,7 @@
             {
               "node_type": "item",
               "title": "Nate Moore",
-              "description": null,
+              "description": "natemoo-re/natemoo-re",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2304,7 +2304,7 @@
             {
               "node_type": "item",
               "title": "Anurag Singh",
-              "description": null,
+              "description": "ashleymavericks/ashleymavericks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2330,7 +2330,7 @@
             {
               "node_type": "item",
               "title": "Waylon Walker",
-              "description": null,
+              "description": "WaylonWalker/WaylonWalker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2351,7 +2351,7 @@
             {
               "node_type": "item",
               "title": "一缕殇流化隐半边冰霜",
-              "description": null,
+              "description": "halfrost/halfrost",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2372,7 +2372,7 @@
             {
               "node_type": "item",
               "title": "Rishit Dagli",
-              "description": null,
+              "description": "Rishit-dagli/Rishit-dagli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2397,7 +2397,7 @@
             {
               "node_type": "item",
               "title": "Johnny Villegas",
-              "description": null,
+              "description": "jvillegasd/Jvillegasd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2434,7 +2434,7 @@
             {
               "node_type": "item",
               "title": "Stephen Ajulu",
-              "description": null,
+              "description": "stephenajulu/stephenajulu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2455,7 +2455,7 @@
             {
               "node_type": "item",
               "title": "Haany Ali",
-              "description": null,
+              "description": "MarikIshtar007/MarikIshtar007",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2476,7 +2476,7 @@
             {
               "node_type": "item",
               "title": "Hemanth Kollipara",
-              "description": null,
+              "description": "Defcon27/Defcon27",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2506,7 +2506,7 @@
             {
               "node_type": "item",
               "title": "Harsh Kumar Khatri",
-              "description": null,
+              "description": "harshkumarkhatri/harshkumarkhatri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2532,7 +2532,7 @@
             {
               "node_type": "item",
               "title": "Jhey Tompkins",
-              "description": null,
+              "description": "jh3y/jh3y",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2553,7 +2553,7 @@
             {
               "node_type": "item",
               "title": "vaaski",
-              "description": null,
+              "description": "vaaski/vaaski",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2574,7 +2574,7 @@
             {
               "node_type": "item",
               "title": "Vinit Shahdeo",
-              "description": null,
+              "description": "vinitshahdeo/vinitshahdeo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2606,7 +2606,7 @@
             {
               "node_type": "item",
               "title": "Tushar Mittal",
-              "description": null,
+              "description": "techytushar/techytushar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2627,7 +2627,7 @@
             {
               "node_type": "item",
               "title": "Onimur",
-              "description": null,
+              "description": "onimur/onimur",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2648,7 +2648,7 @@
             {
               "node_type": "item",
               "title": "Lucas Vazquez",
-              "description": null,
+              "description": "lucasvazq/lucasvazq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2669,7 +2669,7 @@
             {
               "node_type": "item",
               "title": "Bruno Tacca",
-              "description": null,
+              "description": "brunotacca/brunotacca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2690,7 +2690,7 @@
             {
               "node_type": "item",
               "title": "小弟调调™",
-              "description": null,
+              "description": "jaywcjlove/jaywcjlove",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2711,7 +2711,7 @@
             {
               "node_type": "item",
               "title": "Srihari Kapu",
-              "description": null,
+              "description": "sriharikapu/sriharikapu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2738,7 +2738,7 @@
             {
               "node_type": "item",
               "title": "Yash Sahijwani",
-              "description": null,
+              "description": "Terabyte17/Terabyte17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2759,7 +2759,7 @@
             {
               "node_type": "item",
               "title": "Arturs Smirnovs",
-              "description": null,
+              "description": "arturssmirnovs/arturssmirnovs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2782,7 +2782,7 @@
             {
               "node_type": "item",
               "title": "Vansh Kapoor",
-              "description": null,
+              "description": "vanshkapoor/vanshkapoor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2803,7 +2803,7 @@
             {
               "node_type": "item",
               "title": "Fatih Kadir Akın",
-              "description": null,
+              "description": "f/f",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2824,7 +2824,7 @@
             {
               "node_type": "item",
               "title": "Ali Hamza",
-              "description": null,
+              "description": "alihamzaio/alihamzaio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2861,7 +2861,7 @@
             {
               "node_type": "item",
               "title": "Mpho Mphego",
-              "description": null,
+              "description": "mmphego/mmphego",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2882,7 +2882,7 @@
             {
               "node_type": "item",
               "title": "CyrisXD",
-              "description": null,
+              "description": "CyrisXD/CyrisXD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2903,7 +2903,7 @@
             {
               "node_type": "item",
               "title": "Mathieu Ledru",
-              "description": null,
+              "description": "matyo91/matyo91",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2931,7 +2931,7 @@
             {
               "node_type": "item",
               "title": "Abhinav Sharma",
-              "description": null,
+              "description": "ABSphreak/ABSphreak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2954,7 +2954,7 @@
             {
               "node_type": "item",
               "title": "Mason Slover",
-              "description": null,
+              "description": "MasonSlover/MasonSlover",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2984,7 +2984,7 @@
             {
               "node_type": "item",
               "title": "SuperSupeng",
-              "description": null,
+              "description": "SuperSupeng/SuperSupeng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3012,7 +3012,7 @@
             {
               "node_type": "item",
               "title": "Yukii",
-              "description": null,
+              "description": "HerXayah/HerXayah",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3047,7 +3047,7 @@
             {
               "node_type": "item",
               "title": "Ing",
-              "description": null,
+              "description": "innng/innng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3068,7 +3068,7 @@
             {
               "node_type": "item",
               "title": "Ashutosh",
-              "description": null,
+              "description": "Xx-Ashutosh-xX/Xx-Ashutosh-xX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3089,7 +3089,7 @@
             {
               "node_type": "item",
               "title": "edisonlee55",
-              "description": null,
+              "description": "yuna0x0/yuna0x0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3119,7 +3119,7 @@
             {
               "node_type": "item",
               "title": "ridermansb",
-              "description": null,
+              "description": "Ridermansb/ridermansb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3146,7 +3146,7 @@
             {
               "node_type": "item",
               "title": "Pratik Kumar",
-              "description": null,
+              "description": "pr2tik1/pr2tik1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3175,7 +3175,7 @@
             {
               "node_type": "item",
               "title": "Maximous Black",
-              "description": null,
+              "description": "maximousblk/maximousblk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3196,7 +3196,7 @@
             {
               "node_type": "item",
               "title": "MrStanDu33",
-              "description": null,
+              "description": "MrStanDu33/MrStanDu33",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3205,7 +3205,7 @@
                 "id": 279389580,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-02T00:13:02Z",
+                "last_commit": "2026-10-03T00:11:46Z",
                 "open_issues": 3,
                 "owner": "MrStanDu33",
                 "repo": "MrStanDu33",
@@ -3217,7 +3217,7 @@
             {
               "node_type": "item",
               "title": "Orhun",
-              "description": null,
+              "description": "orhun/orhun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3238,7 +3238,7 @@
             {
               "node_type": "item",
               "title": "Aveek Saha",
-              "description": null,
+              "description": "Aveek-Saha/aveek-saha",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3264,7 +3264,7 @@
             {
               "node_type": "item",
               "title": "TallGuyJenks",
-              "description": null,
+              "description": "tallguyjenks/tallguyjenks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3285,7 +3285,7 @@
             {
               "node_type": "item",
               "title": "ChungZH",
-              "description": null,
+              "description": "zirnc/Zirnc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3306,7 +3306,7 @@
             {
               "node_type": "item",
               "title": "Gift Egwuenu",
-              "description": null,
+              "description": "lauragift21/lauragift21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3327,7 +3327,7 @@
             {
               "node_type": "item",
               "title": "Jayraj Roshan",
-              "description": null,
+              "description": "jayrajroshan/jayrajroshan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3348,7 +3348,7 @@
             {
               "node_type": "item",
               "title": "Stefanie Grunwald",
-              "description": null,
+              "description": "moertel/moertel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3371,7 +3371,7 @@
             {
               "node_type": "item",
               "title": "Zheeeng",
-              "description": null,
+              "description": "zheeeng/zheeeng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3397,7 +3397,7 @@
             {
               "node_type": "item",
               "title": "Kelechi Precious Nwachukwu",
-              "description": null,
+              "description": "PluckyPrecious/PluckyPrecious",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3418,7 +3418,7 @@
             {
               "node_type": "item",
               "title": "Abdul Khaliq",
-              "description": null,
+              "description": "kha7iq/kha7iq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3439,7 +3439,7 @@
             {
               "node_type": "item",
               "title": "Alex Martin",
-              "description": null,
+              "description": "alexmartinfr/AlexMartinFR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3460,7 +3460,7 @@
             {
               "node_type": "item",
               "title": "Dennis Hartrampf",
-              "description": null,
+              "description": "DennisHartrampf/DennisHartrampf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3488,7 +3488,7 @@
             {
               "node_type": "item",
               "title": "Sindre Sorhus",
-              "description": null,
+              "description": "sindresorhus/sindresorhus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3512,7 +3512,7 @@
             {
               "node_type": "item",
               "title": "Siv Ram Shastri",
-              "description": null,
+              "description": "Prince-Shivaram/Prince-Shivaram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3533,7 +3533,7 @@
             {
               "node_type": "item",
               "title": "xrkffgg",
-              "description": null,
+              "description": "xrkffgg/xrkffgg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3542,7 +3542,7 @@
                 "id": 276002494,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:43:31Z",
+                "last_commit": "2026-10-03T04:25:55Z",
                 "open_issues": 3,
                 "owner": "xrkffgg",
                 "repo": "xrkffgg",
@@ -3559,7 +3559,7 @@
             {
               "node_type": "item",
               "title": "Ari",
-              "description": null,
+              "description": "ari-hacks/ari-hacks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3580,7 +3580,7 @@
             {
               "node_type": "item",
               "title": "Somnath Paul",
-              "description": null,
+              "description": "SP-XD/SP-XD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3601,7 +3601,7 @@
             {
               "node_type": "item",
               "title": "Raghav Khullar",
-              "description": null,
+              "description": "RaghavK16/RaghavK16",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3622,7 +3622,7 @@
             {
               "node_type": "item",
               "title": "Shubham Kumar",
-              "description": null,
+              "description": "imskr/imskr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3647,7 +3647,7 @@
             {
               "node_type": "item",
               "title": "Pouya Saadeghi",
-              "description": null,
+              "description": "saadeghi/saadeghi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3668,7 +3668,7 @@
             {
               "node_type": "item",
               "title": "Shahriar Shafin",
-              "description": null,
+              "description": "shahriarshafin/shahriarshafin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3694,7 +3694,7 @@
             {
               "node_type": "item",
               "title": "Muskan Rani",
-              "description": null,
+              "description": "muskanrani/muskanrani",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3715,7 +3715,7 @@
             {
               "node_type": "item",
               "title": "Demartini",
-              "description": null,
+              "description": "demartini/demartini",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3741,7 +3741,7 @@
             {
               "node_type": "item",
               "title": "KelviNosse",
-              "description": null,
+              "description": "KelviNosse/KelviNosse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3762,7 +3762,7 @@
             {
               "node_type": "item",
               "title": "Pranjal Bhardwaj",
-              "description": null,
+              "description": "0xpranjal/0xpranjal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3792,7 +3792,7 @@
             {
               "node_type": "item",
               "title": "Okan Koçyiğit",
-              "description": null,
+              "description": "okankocyigit/okankocyigit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3813,7 +3813,7 @@
             {
               "node_type": "item",
               "title": "Kevin Cui",
-              "description": null,
+              "description": "KevCui/KevCui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3834,7 +3834,7 @@
             {
               "node_type": "item",
               "title": "nilfalse",
-              "description": null,
+              "description": "nilfalse/.github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3855,7 +3855,7 @@
             {
               "node_type": "item",
               "title": "Rishav Anand",
-              "description": null,
+              "description": "rishavanand/rishavanand",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3890,7 +3890,7 @@
             {
               "node_type": "item",
               "title": "Ksenia Morozova",
-              "description": null,
+              "description": "kmoroz/kmoroz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3918,7 +3918,7 @@
             {
               "node_type": "item",
               "title": "Shanu Mishra",
-              "description": null,
+              "description": "Shanu1515/Shanu1515",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3939,7 +3939,7 @@
             {
               "node_type": "item",
               "title": "Duncan",
-              "description": null,
+              "description": "dephraiim/dephraiim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3967,7 +3967,7 @@
             {
               "node_type": "item",
               "title": "thewhiteh4t",
-              "description": null,
+              "description": "thewhiteh4t/thewhiteh4t",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3988,7 +3988,7 @@
             {
               "node_type": "item",
               "title": "偏右",
-              "description": null,
+              "description": "afc163/afc163",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4009,7 +4009,7 @@
             {
               "node_type": "item",
               "title": "Daily Random Photo",
-              "description": null,
+              "description": "dailyrandomphoto/dailyrandomphoto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4018,7 +4018,7 @@
                 "id": 282798243,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-02T02:53:05Z",
+                "last_commit": "2026-10-03T02:39:40Z",
                 "open_issues": 4,
                 "owner": "dailyrandomphoto",
                 "repo": "dailyrandomphoto",
@@ -4030,7 +4030,7 @@
             {
               "node_type": "item",
               "title": "Akash Rai",
-              "description": null,
+              "description": "akasrai/akasrai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4058,7 +4058,7 @@
             {
               "node_type": "item",
               "title": "Oussama Bouchikhi",
-              "description": null,
+              "description": "oussamabouchikhi/oussamabouchikhi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4079,7 +4079,7 @@
             {
               "node_type": "item",
               "title": "Zack Krida",
-              "description": null,
+              "description": "zackkrida/zackkrida",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4107,7 +4107,7 @@
             {
               "node_type": "item",
               "title": "Oka",
-              "description": null,
+              "description": "Coordinate-Cat/Coordinate-Cat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4133,7 +4133,7 @@
             {
               "node_type": "item",
               "title": "Anirudh Emmadi",
-              "description": null,
+              "description": "aemmadi/aemmadi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4154,7 +4154,7 @@
             {
               "node_type": "item",
               "title": "Nikita Rusetskii",
-              "description": null,
+              "description": "xtenzQ/xtenzQ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4179,7 +4179,7 @@
             {
               "node_type": "item",
               "title": "Brendon Smith",
-              "description": null,
+              "description": "br3ndonland/br3ndonland",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4202,7 +4202,7 @@
             {
               "node_type": "item",
               "title": "Samujjwaal Dey",
-              "description": null,
+              "description": "samujjwaal/samujjwaal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4226,7 +4226,7 @@
             {
               "node_type": "item",
               "title": "Alwin Wang",
-              "description": null,
+              "description": "alwinw/alwinw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4252,7 +4252,7 @@
             {
               "node_type": "item",
               "title": "Ileriayo Adebiyi",
-              "description": null,
+              "description": "Ileriayo/ileriayo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4273,7 +4273,7 @@
             {
               "node_type": "item",
               "title": "Char-Al",
-              "description": null,
+              "description": "Char-Al/char-al",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4294,7 +4294,7 @@
             {
               "node_type": "item",
               "title": "Moshfiq Rony",
-              "description": null,
+              "description": "moshfiqrony/moshfiqrony",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4321,7 +4321,7 @@
             {
               "node_type": "item",
               "title": "Raphael Ebner",
-              "description": null,
+              "description": "rafi0101/rafi0101",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4342,7 +4342,7 @@
             {
               "node_type": "item",
               "title": "Harish Kumar S S",
-              "description": null,
+              "description": "harish-sethuraman/harish-sethuraman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4370,7 +4370,7 @@
             {
               "node_type": "item",
               "title": "xiaoluoboding",
-              "description": null,
+              "description": "xiaoluoboding/xiaoluoboding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4401,7 +4401,7 @@
             {
               "node_type": "item",
               "title": "Valentin Briand",
-              "description": null,
+              "description": "vbriand/vbriand",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4426,7 +4426,7 @@
             {
               "node_type": "item",
               "title": "Derek Nguyen",
-              "description": null,
+              "description": "dereknguyen269/dereknguyen269",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4450,7 +4450,7 @@
             {
               "node_type": "item",
               "title": "Yuan Tang",
-              "description": null,
+              "description": "terrytangyuan/terrytangyuan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4487,7 +4487,7 @@
             {
               "node_type": "item",
               "title": "Hussainweb",
-              "description": null,
+              "description": "hussainweb/hussainweb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4508,7 +4508,7 @@
             {
               "node_type": "item",
               "title": "Peter Han",
-              "description": null,
+              "description": "peterthehan/peterthehan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4550,7 +4550,7 @@
             {
               "node_type": "item",
               "title": "Thomas George Thomas",
-              "description": null,
+              "description": "Thomas-George-T/Thomas-George-T",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4589,7 +4589,7 @@
             {
               "node_type": "item",
               "title": "Livio Brunner",
-              "description": null,
+              "description": "BrunnerLivio/brunnerlivio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4610,7 +4610,7 @@
             {
               "node_type": "item",
               "title": "Christian Petersen",
-              "description": null,
+              "description": "fnky/fnky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4655,7 +4655,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79823,
+            "stars": 79820,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -4679,10 +4679,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-09-30T19:30:33Z",
-            "open_issues": 975,
+            "open_issues": 977,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25947,
+            "stars": 25951,
             "topics": [
               "brand",
               "brand-assets",
@@ -4752,7 +4752,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17094,
+            "stars": 17092,
             "topics": [
               "badges-markdown",
               "branding",
@@ -4880,7 +4880,7 @@
             "open_issues": 68,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3997,
+            "stars": 3998,
             "topics": [
               "awesome",
               "profile",
@@ -5641,7 +5641,7 @@
             "id": 1306297307,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:48:54Z",
+            "last_commit": "2026-10-03T03:33:38Z",
             "open_issues": 0,
             "owner": "dahan8473",
             "repo": "snake-and-commits",
@@ -5826,7 +5826,7 @@
             "id": 1324327913,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:51:41Z",
+            "last_commit": "2026-10-02T22:21:53Z",
             "open_issues": 0,
             "owner": "prsdx",
             "repo": "YourTomo",
@@ -5868,7 +5868,7 @@
             "id": 1309742988,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:52:52Z",
+            "last_commit": "2026-10-03T03:37:17Z",
             "open_issues": 0,
             "owner": "flycran",
             "repo": "github-gravity",
@@ -5931,7 +5931,7 @@
             "id": 992646715,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-02T03:25:50Z",
+            "last_commit": "2026-10-03T03:09:52Z",
             "open_issues": 1,
             "owner": "in-c0",
             "repo": "daily-badge",
@@ -5980,7 +5980,7 @@
             "id": 1300045378,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T20:04:31Z",
+            "last_commit": "2026-10-02T19:43:20Z",
             "open_issues": 0,
             "owner": "starlash7",
             "repo": "github-candles",
@@ -6120,7 +6120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:48:01.903Z",
+    "last_updated": "2026-10-03T04:49:04.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome GitHub Profile which updates in real time ",
@@ -6132,7 +6132,7 @@
       "open_issues": 704,
       "owner": "abhisheknaiidu",
       "repo": "awesome-github-profile-readme",
-      "stars": 31240,
+      "stars": 31242,
       "topics": [
         "awesome",
         "awesome-list",
