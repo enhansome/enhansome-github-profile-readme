@@ -62,7 +62,7 @@
 * [Simon Willison](https://github.com/simonw/simonw) ⭐ 444 | 🐛 5 | 🌐 Python | 📅 2026-10-05
 * [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh) ⭐ 385 | 🐛 13 | 🌐 Ruby | 📅 2026-09-29
 * [itgoyo](https://github.com/itgoyo/itgoyo) ⭐ 290 | 🐛 1 | 🌐 Python | 📅 2026-10-06
-* [Yufan You](https://github.com/ouuan/ouuan) ⭐ 266 | 🐛 2 | 🌐 Python | 📅 2026-10-06
+* [Yufan You](https://github.com/ouuan/ouuan) ⭐ 267 | 🐛 2 | 🌐 Python | 📅 2026-10-06
 * [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar) ⭐ 261 | 🐛 0 | 📅 2026-09-29
 * [侑夕-Tw93](https://github.com/tw93/tw93) ⭐ 253 | 🐛 0 | 🌐 HTML | 📅 2026-10-06
 * [Elon Tang (blackcater)](https://github.com/blackcater/blackcater) ⭐ 196 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-05
@@ -133,14 +133,14 @@
 * [Trini B](https://github.com/trinib/trinib) ⭐ 508 | 🐛 31 | 🌐 Markdown | 📅 2026-04-24
 * [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz) ⭐ 441 | 🐛 2 | 📅 2026-09-21
 * [Raymond Li](https://github.com/Raymo111/Raymo111) ⭐ 265 | 🐛 2 | 🌐 R | 📅 2026-09-21
-* [Adam Alston](https://github.com/adamalston/adamalston) ⭐ 263 | 🐛 0 | 📅 2026-08-18
+* [Adam Alston](https://github.com/adamalston/adamalston) ⭐ 262 | 🐛 0 | 📅 2026-08-18
 * [Khaleel Gibran](https://github.com/khalby786/khalby786) ⭐ 200 | 🐛 1 | 📅 2026-10-06
 * [Apoorv Tyagi](https://github.com/apoorvtyagi/apoorvtyagi) ⭐ 164 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06
 * [Aditya Pal](https://github.com/sciencepal/sciencepal) ⭐ 161 | 🐛 8 | 🌐 Python | 📅 2026-10-06
 * [Miller Camilo Vega](https://github.com/minoveaz/minoveaz) ⭐ 136 | 🐛 2 | 📅 2026-10-05
 * [Rafnix Guzmán](https://github.com/rafnixg/rafnixg) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2026-09-27
 * [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom) ⭐ 134 | 🐛 0 | 🌐 Markdown | 📅 2026-10-06
-* [Quin Knight](https://github.com/cheesits456/cheesits456) ⭐ 127 | 🐛 0 | 🌐 Markdown | 📅 2026-09-30
+* [Quin Knight](https://github.com/cheesits456/cheesits456) ⭐ 127 | 🐛 0 | 🌐 Markdown | 📅 2026-10-06
 * [Hedy Li](https://github.com/hedythedev/hedythedev) ⭐ 112 | 🐛 0 | 📅 2025-06-10
 * [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10) ⭐ 111 | 🐛 3 | 📅 2021-10-13
 * [Xunzhuo](https://github.com/xunzhuo/xunzhuo) ⭐ 81 | 🐛 1 | 📅 2026-08-02
@@ -173,7 +173,7 @@
 * [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli) ⭐ 161 | 🐛 2 | 🌐 HTML | 📅 2026-09-28
 * [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs) ⭐ 141 | 🐛 0 | 🌐 Pug | 📅 2026-05-08
 * [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu) ⭐ 127 | 🐛 0 | 📅 2026-10-03
-* [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007) ⭐ 112 | 🐛 0 | 📅 2024-05-14
+* [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007) ⭐ 113 | 🐛 0 | 📅 2024-05-14
 * [Hemanth Kollipara](https://github.com/Defcon27/Defcon27) ⭐ 93 | 🐛 0 | 📅 2024-01-25
 * [Harsh Kumar Khatri](https://github.com/harshkumarkhatri/harshkumarkhatri) ⭐ 91 | 🐛 0 | 📅 2026-03-28
 * [Jhey Tompkins](https://github.com/jh3y/jh3y) ⭐ 84 | 🐛 0 | 📅 2026-05-27
@@ -264,7 +264,7 @@
 
 #### Badges 🎫
 
-* [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat) ⭐ 168 | 🐛 0 | 📅 2026-10-05
+* [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat) ⭐ 168 | 🐛 0 | 📅 2026-10-06
 * [Anirudh Emmadi](https://github.com/aemmadi/aemmadi) ⭐ 140 | 🐛 2 | 📅 2024-02-28
 * [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ) ⭐ 107 | 🐛 0 | 📅 2026-06-27
 * [Brendon Smith](https://github.com/br3ndonland/br3ndonland) ⭐ 91 | 🐛 0 | 📅 2025-11-24
@@ -296,12 +296,12 @@
 
 ## Tools
 
-* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,825 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - Get dynamically generated GitHub stats on your readmes
-* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,969 | 🐛 982 | 🌐 JavaScript | 📅 2026-10-04 -  SVG icons for popular brands for your README.md files
-* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,448 | 🐛 406 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
+* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,822 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - Get dynamically generated GitHub stats on your readmes
+* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,972 | 🐛 982 | 🌐 JavaScript | 📅 2026-10-04 -  SVG icons for popular brands for your README.md files
+* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,446 | 🐛 406 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 * [Markdown Badges](https://github.com/Ileriayo/markdown-badges) ⭐ 17,102 | 🐛 0 | 🌐 SCSS | 📅 2026-09-30 - Add badges to your profile.
 * [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) ⭐ 9,399 | 🐛 33 | 🌐 PHP | 📅 2026-10-03 - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
-* [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,160 | 🐛 76 | 🌐 PHP | 📅 2026-09-25 - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+* [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,161 | 🐛 76 | 🌐 PHP | 📅 2026-09-25 - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 * [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,665 | 🐛 33 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated GitHub Trophy on your readme
 * [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) ⭐ 4,000 | 🐛 71 | 🌐 Python | 📅 2026-10-05 - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 * [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) ⭐ 3,447 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
