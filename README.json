@@ -67,7 +67,7 @@
                 "open_issues": 10,
                 "owner": "thmsgbrt",
                 "repo": "thmsgbrt",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -84,7 +84,7 @@
                 "id": 277065138,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-18T21:56:48Z",
+                "last_commit": "2026-10-20T00:44:47Z",
                 "open_issues": 4,
                 "owner": "abhisheknaiidu",
                 "repo": "abhisheknaiidu",
@@ -105,11 +105,11 @@
                 "id": 278366156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T00:57:30Z",
+                "last_commit": "2026-10-20T04:25:46Z",
                 "open_issues": 5,
                 "owner": "simonw",
                 "repo": "simonw",
-                "stars": 447,
+                "stars": 448,
                 "topics": [
                   "github-actions",
                   "github-api",
@@ -152,7 +152,7 @@
                 "id": 278299746,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-19T08:43:03Z",
+                "last_commit": "2026-10-20T08:36:51Z",
                 "open_issues": 1,
                 "owner": "itgoyo",
                 "repo": "itgoyo",
@@ -178,7 +178,7 @@
                 "id": 281622676,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T22:09:19Z",
+                "last_commit": "2026-10-19T23:14:53Z",
                 "open_issues": 2,
                 "owner": "ouuan",
                 "repo": "ouuan",
@@ -230,7 +230,7 @@
                 "id": 280620097,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T11:54:42Z",
+                "last_commit": "2026-10-20T10:50:19Z",
                 "open_issues": 0,
                 "owner": "tw93",
                 "repo": "tw93",
@@ -344,7 +344,7 @@
                 "language": "Ruby",
                 "license": null,
                 "last_commit": "2024-01-05T16:03:15Z",
-                "open_issues": 393,
+                "open_issues": 394,
                 "owner": "JessicaLim8",
                 "repo": "JessicaLim8",
                 "stars": 152,
@@ -382,27 +382,6 @@
             },
             {
               "node_type": "item",
-              "title": "liununu",
-              "description": "liununu/liununu",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 280353823,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2026-10-19T11:57:54Z",
-                "open_issues": 0,
-                "owner": "liununu",
-                "repo": "liununu",
-                "stars": 134,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:14:47.047Z"
-            },
-            {
-              "node_type": "item",
               "title": "Michael Hoffmann (Mokkapps)",
               "description": "Mokkapps/mokkapps",
               "children": [],
@@ -427,6 +406,27 @@
                   "twitter",
                   "twitter-api"
                 ]
+              },
+              "first_seen": "2026-08-28T20:14:47.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "liununu",
+              "description": "liununu/liununu",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 280353823,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-10-20T10:51:27Z",
+                "open_issues": 0,
+                "owner": "liununu",
+                "repo": "liununu",
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
             },
@@ -746,7 +746,7 @@
                 "id": 272328835,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-19T15:33:05Z",
+                "last_commit": "2026-10-20T00:32:46Z",
                 "open_issues": 7,
                 "owner": "timburgan",
                 "repo": "timburgan",
@@ -767,11 +767,11 @@
                 "id": 278535900,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-10-19T02:07:00Z",
+                "last_commit": "2026-10-20T11:43:03Z",
                 "open_issues": 14,
                 "owner": "JonathanGin52",
                 "repo": "JonathanGin52",
-                "stars": 251,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -814,7 +814,7 @@
                 "id": 281332666,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-18T21:42:23Z",
+                "last_commit": "2026-10-20T05:19:36Z",
                 "open_issues": 18,
                 "owner": "rossjrw",
                 "repo": "rossjrw",
@@ -848,7 +848,7 @@
                 "open_issues": 2,
                 "owner": "DoubleGremlin181",
                 "repo": "DoubleGremlin181",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "github-actions",
                   "readme",
@@ -942,7 +942,7 @@
                 "id": 279555795,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-19T04:58:07Z",
+                "last_commit": "2026-10-20T05:07:42Z",
                 "open_issues": 4,
                 "owner": "anmol098",
                 "repo": "anmol098",
@@ -1154,7 +1154,7 @@
                 "id": 288654900,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-17T21:02:18Z",
+                "last_commit": "2026-10-19T21:02:40Z",
                 "open_issues": 1,
                 "owner": "DenverCoder1",
                 "repo": "DenverCoder1",
@@ -1369,7 +1369,7 @@
                 "open_issues": 1,
                 "owner": "MacroPower",
                 "repo": "MacroPower",
-                "stars": 227,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -1469,7 +1469,7 @@
                 "open_issues": 1,
                 "owner": "DaniAkash",
                 "repo": "DaniAkash",
-                "stars": 59,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -1490,7 +1490,7 @@
                 "open_issues": 0,
                 "owner": "HwangTaehyun",
                 "repo": "HwangTaehyun",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -1606,7 +1606,7 @@
                 "id": 279710110,
                 "language": "R",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T06:47:55Z",
+                "last_commit": "2026-10-20T07:49:53Z",
                 "open_issues": 2,
                 "owner": "Raymo111",
                 "repo": "Raymo111",
@@ -1669,11 +1669,11 @@
                 "id": 278372664,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-19T12:08:44Z",
+                "last_commit": "2026-10-20T13:19:59Z",
                 "open_issues": 1,
                 "owner": "khalby786",
                 "repo": "khalby786",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -1690,7 +1690,7 @@
                 "id": 277297834,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-19T05:04:38Z",
+                "last_commit": "2026-10-20T05:07:04Z",
                 "open_issues": 0,
                 "owner": "ApoorvTyagi",
                 "repo": "ApoorvTyagi",
@@ -1711,7 +1711,7 @@
                 "id": 281173177,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T14:10:32Z",
+                "last_commit": "2026-10-20T06:58:59Z",
                 "open_issues": 8,
                 "owner": "sciencepal",
                 "repo": "sciencepal",
@@ -1741,7 +1741,7 @@
                 "open_issues": 0,
                 "owner": "rafnixg",
                 "repo": "rafnixg",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "python",
                   "readme",
@@ -1762,7 +1762,7 @@
                 "id": 278625481,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-18T18:42:31Z",
+                "last_commit": "2026-10-19T18:48:54Z",
                 "open_issues": 2,
                 "owner": "minoveaz",
                 "repo": "minoveaz",
@@ -1788,7 +1788,7 @@
                 "id": 284056602,
                 "language": "Markdown",
                 "license": null,
-                "last_commit": "2026-10-19T03:36:37Z",
+                "last_commit": "2026-10-20T03:47:18Z",
                 "open_issues": 0,
                 "owner": "cxyfreedom",
                 "repo": "cxyfreedom",
@@ -1834,7 +1834,7 @@
                 "open_issues": 0,
                 "owner": "hedyhli",
                 "repo": "hedyhli",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "profile",
                   "profile-readme"
@@ -1858,7 +1858,7 @@
                 "open_issues": 3,
                 "owner": "AbhishekMaira10",
                 "repo": "AbhishekMaira10",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "github-io",
                   "hacktoberfest",
@@ -1903,7 +1903,7 @@
                 "id": 312890338,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-18T23:53:13Z",
+                "last_commit": "2026-10-20T00:53:31Z",
                 "open_issues": 3,
                 "owner": "claytonjhamilton",
                 "repo": "claytonjhamilton",
@@ -1945,7 +1945,7 @@
                 "id": 418752305,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-19T03:56:53Z",
+                "last_commit": "2026-10-20T04:09:42Z",
                 "open_issues": 0,
                 "owner": "holic-x",
                 "repo": "holic-x",
@@ -1991,7 +1991,7 @@
                 "open_issues": 0,
                 "owner": "raklaptudirm",
                 "repo": "raklaptudirm",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2146,7 +2146,7 @@
                 "open_issues": 2,
                 "owner": "sakshamtaneja21",
                 "repo": "sakshamtaneja21",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2167,7 +2167,7 @@
                 "open_issues": 0,
                 "owner": "lizheming",
                 "repo": "lizheming",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2243,7 +2243,7 @@
                 "open_issues": 0,
                 "owner": "Nanra",
                 "repo": "Nanra",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2364,7 +2364,7 @@
                 "open_issues": 1,
                 "owner": "halfrost",
                 "repo": "halfrost",
-                "stars": 211,
+                "stars": 212,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2385,7 +2385,7 @@
                 "open_issues": 2,
                 "owner": "Rishit-dagli",
                 "repo": "Rishit-dagli",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "badges",
                   "contribution-graph",
@@ -2489,7 +2489,7 @@
                 "open_issues": 0,
                 "owner": "Defcon27",
                 "repo": "Defcon27",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "badges-markdown",
                   "github",
@@ -2519,7 +2519,7 @@
                 "open_issues": 0,
                 "owner": "harshkumarkhatri",
                 "repo": "harshkumarkhatri",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "portfolio",
                   "readme",
@@ -2566,7 +2566,7 @@
                 "open_issues": 0,
                 "owner": "vaaski",
                 "repo": "vaaski",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2587,7 +2587,7 @@
                 "open_issues": 3,
                 "owner": "vinitshahdeo",
                 "repo": "vinitshahdeo",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "codechef-vit",
                   "developer",
@@ -2661,7 +2661,7 @@
                 "open_issues": 0,
                 "owner": "lucasvazq",
                 "repo": "lucasvazq",
-                "stars": 68,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2703,7 +2703,7 @@
                 "open_issues": 6,
                 "owner": "sriharikapu",
                 "repo": "sriharikapu",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "github-profile",
                   "github-profile-card",
@@ -2711,6 +2711,27 @@
                   "github-readme-medium",
                   "profile-readme"
                 ]
+              },
+              "first_seen": "2026-08-28T20:14:47.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Yash Sahijwani",
+              "description": "Terabyte17/Terabyte17",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 282295815,
+                "language": null,
+                "license": null,
+                "last_commit": "2020-09-12T09:46:04Z",
+                "open_issues": 1,
+                "owner": "Terabyte17",
+                "repo": "Terabyte17",
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
             },
@@ -2737,27 +2758,6 @@
             },
             {
               "node_type": "item",
-              "title": "Yash Sahijwani",
-              "description": "Terabyte17/Terabyte17",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 282295815,
-                "language": null,
-                "license": null,
-                "last_commit": "2020-09-12T09:46:04Z",
-                "open_issues": 1,
-                "owner": "Terabyte17",
-                "repo": "Terabyte17",
-                "stars": 56,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:14:47.047Z"
-            },
-            {
-              "node_type": "item",
               "title": "Arturs Smirnovs",
               "description": "arturssmirnovs/arturssmirnovs",
               "children": [],
@@ -2772,7 +2772,7 @@
                 "open_issues": 0,
                 "owner": "arturssmirnovs",
                 "repo": "arturssmirnovs",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "readme"
                 ]
@@ -2795,7 +2795,7 @@
                 "open_issues": 1,
                 "owner": "vanshkapoor",
                 "repo": "vanshkapoor",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2874,7 +2874,7 @@
                 "open_issues": 0,
                 "owner": "mmphego",
                 "repo": "mmphego",
-                "stars": 331,
+                "stars": 333,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2912,7 +2912,7 @@
                 "id": 278464483,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T05:42:29Z",
+                "last_commit": "2026-10-20T05:39:08Z",
                 "open_issues": 0,
                 "owner": "matyo91",
                 "repo": "matyo91",
@@ -2988,7 +2988,7 @@
                 "open_issues": 0,
                 "owner": "MasonSlover",
                 "repo": "MasonSlover",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "animation",
                   "feature",
@@ -3081,7 +3081,7 @@
                 "open_issues": 1,
                 "owner": "Xx-Ashutosh-xX",
                 "repo": "Xx-Ashutosh-xX",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3205,7 +3205,7 @@
                 "id": 279389580,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-19T00:11:03Z",
+                "last_commit": "2026-10-20T00:11:33Z",
                 "open_issues": 3,
                 "owner": "MrStanDu33",
                 "repo": "MrStanDu33",
@@ -3251,7 +3251,7 @@
                 "open_issues": 0,
                 "owner": "Aveek-Saha",
                 "repo": "aveek-saha",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "github",
                   "github-readme-profile",
@@ -3298,7 +3298,7 @@
                 "open_issues": 0,
                 "owner": "zirnc",
                 "repo": "Zirnc",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3361,10 +3361,31 @@
                 "open_issues": 0,
                 "owner": "moertel",
                 "repo": "moertel",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "profile-readme"
                 ]
+              },
+              "first_seen": "2026-08-28T20:14:47.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Abdul Khaliq",
+              "description": "kha7iq/kha7iq",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Github Profile",
+                "homepage": "https://github.com/kha7iq",
+                "id": 346964409,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-07-10T15:36:12Z",
+                "open_issues": 0,
+                "owner": "kha7iq",
+                "repo": "kha7iq",
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
             },
@@ -3384,6 +3405,27 @@
                 "open_issues": 0,
                 "owner": "PluckyPrecious",
                 "repo": "PluckyPrecious",
+                "stars": 45,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:14:47.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Alex Martin",
+              "description": "alexmartinfr/AlexMartinFR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 277143323,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-09-06T12:22:07Z",
+                "open_issues": 1,
+                "owner": "alexmartinfr",
+                "repo": "AlexMartinFR",
                 "stars": 45,
                 "topics": []
               },
@@ -3417,48 +3459,6 @@
             },
             {
               "node_type": "item",
-              "title": "Abdul Khaliq",
-              "description": "kha7iq/kha7iq",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Github Profile",
-                "homepage": "https://github.com/kha7iq",
-                "id": 346964409,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-07-10T15:36:12Z",
-                "open_issues": 0,
-                "owner": "kha7iq",
-                "repo": "kha7iq",
-                "stars": 45,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:14:47.047Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Alex Martin",
-              "description": "alexmartinfr/AlexMartinFR",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 277143323,
-                "language": null,
-                "license": null,
-                "last_commit": "2022-09-06T12:22:07Z",
-                "open_issues": 1,
-                "owner": "alexmartinfr",
-                "repo": "AlexMartinFR",
-                "stars": 44,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:14:47.047Z"
-            },
-            {
-              "node_type": "item",
               "title": "Dennis Hartrampf",
               "description": "DennisHartrampf/DennisHartrampf",
               "children": [],
@@ -3473,7 +3473,7 @@
                 "open_issues": 0,
                 "owner": "DennisHartrampf",
                 "repo": "DennisHartrampf",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3501,7 +3501,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "sindresorhus",
-                "stars": 488,
+                "stars": 490,
                 "topics": [
                   "dinosaur",
                   "unicorn"
@@ -3542,7 +3542,7 @@
                 "id": 276002494,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T03:49:52Z",
+                "last_commit": "2026-10-20T04:01:00Z",
                 "open_issues": 3,
                 "owner": "xrkffgg",
                 "repo": "xrkffgg",
@@ -3572,7 +3572,7 @@
                 "open_issues": 7,
                 "owner": "SP-XD",
                 "repo": "SP-XD",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3593,7 +3593,7 @@
                 "open_issues": 0,
                 "owner": "ari-hacks",
                 "repo": "ari-hacks",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3635,7 +3635,7 @@
                 "open_issues": 0,
                 "owner": "imskr",
                 "repo": "imskr",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "github-actions",
                   "readme",
@@ -3681,7 +3681,7 @@
                 "open_issues": 0,
                 "owner": "shahriarshafin",
                 "repo": "shahriarshafin",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "github-awesome-profile",
                   "github-readme",
@@ -3707,7 +3707,7 @@
                 "open_issues": 0,
                 "owner": "muskanrani",
                 "repo": "muskanrani",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3735,6 +3735,27 @@
                   "readme",
                   "template"
                 ]
+              },
+              "first_seen": "2026-08-28T20:14:47.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Okan Koçyiğit",
+              "description": "okankocyigit/okankocyigit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "me",
+                "homepage": null,
+                "id": 278724174,
+                "language": null,
+                "license": null,
+                "last_commit": "2020-07-18T08:35:44Z",
+                "open_issues": 0,
+                "owner": "okankocyigit",
+                "repo": "okankocyigit",
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
             },
@@ -3791,27 +3812,6 @@
             },
             {
               "node_type": "item",
-              "title": "Okan Koçyiğit",
-              "description": "okankocyigit/okankocyigit",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "me",
-                "homepage": null,
-                "id": 278724174,
-                "language": null,
-                "license": null,
-                "last_commit": "2020-07-18T08:35:44Z",
-                "open_issues": 0,
-                "owner": "okankocyigit",
-                "repo": "okankocyigit",
-                "stars": 47,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:14:47.047Z"
-            },
-            {
-              "node_type": "item",
               "title": "nilfalse",
               "description": "nilfalse/.github",
               "children": [],
@@ -3826,7 +3826,7 @@
                 "open_issues": 0,
                 "owner": "nilfalse",
                 "repo": ".github",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3847,7 +3847,7 @@
                 "open_issues": 0,
                 "owner": "KevCui",
                 "repo": "KevCui",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3903,7 +3903,7 @@
                 "open_issues": 0,
                 "owner": "kmoroz",
                 "repo": "kmoroz",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "profile",
                   "profile-card",
@@ -3952,7 +3952,7 @@
                 "open_issues": 0,
                 "owner": "dephraiim",
                 "repo": "dephraiim",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -4018,7 +4018,7 @@
                 "id": 282798243,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-19T02:08:52Z",
+                "last_commit": "2026-10-20T02:24:45Z",
                 "open_issues": 4,
                 "owner": "dailyrandomphoto",
                 "repo": "dailyrandomphoto",
@@ -4071,7 +4071,7 @@
                 "open_issues": 0,
                 "owner": "oussamabouchikhi",
                 "repo": "oussamabouchikhi",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -4116,7 +4116,7 @@
                 "id": 278383856,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-19T12:21:53Z",
+                "last_commit": "2026-10-20T12:20:45Z",
                 "open_issues": 0,
                 "owner": "Coordinate-Cat",
                 "repo": "Coordinate-Cat",
@@ -4215,7 +4215,7 @@
                 "open_issues": 0,
                 "owner": "samujjwaal",
                 "repo": "samujjwaal",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "github-profile-readme",
                   "markdown"
@@ -4239,7 +4239,7 @@
                 "open_issues": 1,
                 "owner": "alwinw",
                 "repo": "alwinw",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "profile",
                   "readme",
@@ -4286,7 +4286,7 @@
                 "open_issues": 0,
                 "owner": "Char-Al",
                 "repo": "char-al",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -4307,7 +4307,7 @@
                 "open_issues": 0,
                 "owner": "moshfiqrony",
                 "repo": "moshfiqrony",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "badges-markdown",
                   "github-readme-example",
@@ -4334,7 +4334,7 @@
                 "open_issues": 0,
                 "owner": "rafi0101",
                 "repo": "rafi0101",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -4459,7 +4459,7 @@
                 "id": 278505738,
                 "language": "R",
                 "license": null,
-                "last_commit": "2026-10-14T03:34:07Z",
+                "last_commit": "2026-10-20T03:26:04Z",
                 "open_issues": 0,
                 "owner": "terrytangyuan",
                 "repo": "terrytangyuan",
@@ -4652,10 +4652,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T01:02:55Z",
-            "open_issues": 297,
+            "open_issues": 295,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79843,
+            "stars": 79844,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -4679,10 +4679,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-19T11:30:13Z",
-            "open_issues": 997,
+            "open_issues": 998,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26037,
+            "stars": 26047,
             "topics": [
               "brand",
               "brand-assets",
@@ -4752,7 +4752,7 @@
             "open_issues": 1,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17129,
+            "stars": 17130,
             "topics": [
               "badges-markdown",
               "branding",
@@ -4777,11 +4777,11 @@
             "id": 359687154,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-03T21:51:17Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-19T18:49:01Z",
+            "open_issues": 28,
             "owner": "DenverCoder1",
             "repo": "readme-typing-svg",
-            "stars": 9445,
+            "stars": 9448,
             "topics": [
               "animation",
               "dynamic",
@@ -4808,11 +4808,11 @@
             "id": 307018731,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-08T19:23:39Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-19T19:55:28Z",
+            "open_issues": 78,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7170,
+            "stars": 7172,
             "topics": [
               "dynamic",
               "github",
@@ -4846,7 +4846,7 @@
             "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6668,
+            "stars": 6667,
             "topics": [
               "deno",
               "github",
@@ -4880,7 +4880,7 @@
             "open_issues": 72,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3998,
+            "stars": 3999,
             "topics": [
               "awesome",
               "profile",
@@ -4950,7 +4950,7 @@
             "open_issues": 22,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2254,
+            "stars": 2257,
             "topics": [
               "github",
               "github-pages",
@@ -4976,7 +4976,7 @@
             "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1834,
+            "stars": 1835,
             "topics": [
               "profile-page",
               "readme",
@@ -5123,7 +5123,7 @@
             "open_issues": 4,
             "owner": "PiyushSuthar",
             "repo": "github-readme-quotes",
-            "stars": 627,
+            "stars": 626,
             "topics": [
               "github",
               "github-readme",
@@ -5186,7 +5186,7 @@
             "open_issues": 3,
             "owner": "khalby786",
             "repo": "REHeader",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "css",
               "github-readme",
@@ -5216,7 +5216,7 @@
             "open_issues": 11,
             "owner": "ankurparihar",
             "repo": "readme-pagespeed-insights",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "lighthouse-audits",
               "pagespeed-insights",
@@ -5529,6 +5529,36 @@
         },
         {
           "node_type": "item",
+          "title": "GitHub Profile Stats",
+          "description": "Free, real-time GitHub stat cards, language charts, mini badges & activity sparklines for your README. No token, no setup - just paste one line. Live demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Beautiful GitHub stats cards for your README — just paste one line.",
+            "homepage": "https://ghstats.dev/",
+            "id": 1173467302,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-19T20:12:42Z",
+            "open_issues": 31,
+            "owner": "rowkavdev",
+            "repo": "GitHub-profile-stats",
+            "stars": 47,
+            "topics": [
+              "github-profile",
+              "github-readme",
+              "github-stats",
+              "readme-cards",
+              "readme-stats",
+              "self-hosted",
+              "svg",
+              "vercel"
+            ]
+          },
+          "first_seen": "2026-09-12T12:13:41.427Z"
+        },
+        {
+          "node_type": "item",
           "title": "Laravel GitHub Profile Visit Counter",
           "description": "Add on your Laravel project a quick-badge to count your profile visits.",
           "children": [],
@@ -5553,36 +5583,6 @@
             ]
           },
           "first_seen": "2026-08-28T20:14:47.047Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub Profile Stats",
-          "description": "Free, real-time GitHub stat cards, language charts, mini badges & activity sparklines for your README. No token, no setup - just paste one line. Live demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Beautiful GitHub stats cards for your README — just paste one line.",
-            "homepage": "https://ghstats.dev/",
-            "id": 1173467302,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-18T04:45:06Z",
-            "open_issues": 30,
-            "owner": "rowkavdev",
-            "repo": "GitHub-profile-stats",
-            "stars": 46,
-            "topics": [
-              "github-profile",
-              "github-readme",
-              "github-stats",
-              "readme-cards",
-              "readme-stats",
-              "self-hosted",
-              "svg",
-              "vercel"
-            ]
-          },
-          "first_seen": "2026-09-12T12:13:41.427Z"
         },
         {
           "node_type": "item",
@@ -5641,7 +5641,7 @@
             "id": 1306297307,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T03:01:20Z",
+            "last_commit": "2026-10-20T03:10:32Z",
             "open_issues": 0,
             "owner": "dahan8473",
             "repo": "snake-and-commits",
@@ -5750,7 +5750,7 @@
             "id": 1324327913,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T13:38:40Z",
+            "last_commit": "2026-10-20T11:51:37Z",
             "open_issues": 0,
             "owner": "knowprasad",
             "repo": "YourTomo",
@@ -5868,7 +5868,7 @@
             "id": 1309742988,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T03:04:36Z",
+            "last_commit": "2026-10-20T03:13:49Z",
             "open_issues": 0,
             "owner": "flycran",
             "repo": "github-gravity",
@@ -5931,7 +5931,7 @@
             "id": 1300045378,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-18T17:45:56Z",
+            "last_commit": "2026-10-19T20:19:37Z",
             "open_issues": 0,
             "owner": "starlash7",
             "repo": "github-candles",
@@ -5956,7 +5956,7 @@
             "id": 992646715,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-19T00:16:10Z",
+            "last_commit": "2026-10-20T00:14:34Z",
             "open_issues": 1,
             "owner": "in-c0",
             "repo": "daily-badge",
@@ -6120,7 +6120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:44:37.524Z",
+    "last_updated": "2026-10-20T13:40:15.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome GitHub Profile which updates in real time ",
@@ -6129,10 +6129,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-11T23:08:19Z",
-      "open_issues": 719,
+      "open_issues": 718,
       "owner": "abhisheknaiidu",
       "repo": "awesome-github-profile-readme",
-      "stars": 31370,
+      "stars": 31376,
       "topics": [
         "awesome",
         "awesome-list",
