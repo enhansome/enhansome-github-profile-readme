@@ -105,7 +105,7 @@
                 "id": 278366156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T04:17:40Z",
+                "last_commit": "2026-11-14T03:16:41Z",
                 "open_issues": 5,
                 "owner": "simonw",
                 "repo": "simonw",
@@ -152,7 +152,7 @@
                 "id": 278299746,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-13T08:23:54Z",
+                "last_commit": "2026-11-14T08:21:59Z",
                 "open_issues": 1,
                 "owner": "itgoyo",
                 "repo": "itgoyo",
@@ -178,7 +178,7 @@
                 "id": 281622676,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T00:50:00Z",
+                "last_commit": "2026-11-14T00:35:38Z",
                 "open_issues": 0,
                 "owner": "ouuan",
                 "repo": "ouuan",
@@ -421,7 +421,7 @@
                 "id": 280353823,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-13T13:50:30Z",
+                "last_commit": "2026-11-14T12:53:37Z",
                 "open_issues": 0,
                 "owner": "liununu",
                 "repo": "liununu",
@@ -746,11 +746,11 @@
                 "id": 272328835,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-13T14:30:53Z",
+                "last_commit": "2026-11-14T09:50:31Z",
                 "open_issues": 8,
                 "owner": "timburgan",
                 "repo": "timburgan",
-                "stars": 1192,
+                "stars": 1191,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -767,11 +767,11 @@
                 "id": 278535900,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-11-13T13:52:11Z",
+                "last_commit": "2026-11-14T13:09:53Z",
                 "open_issues": 15,
                 "owner": "JonathanGin52",
                 "repo": "JonathanGin52",
-                "stars": 255,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -788,11 +788,11 @@
                 "id": 322606147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-13T13:23:03Z",
+                "last_commit": "2026-11-14T11:01:23Z",
                 "open_issues": 0,
                 "owner": "marcizhu",
                 "repo": "marcizhu",
-                "stars": 246,
+                "stars": 247,
                 "topics": [
                   "chess-game",
                   "games",
@@ -814,7 +814,7 @@
                 "id": 281332666,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-13T12:53:50Z",
+                "last_commit": "2026-11-13T20:17:42Z",
                 "open_issues": 10,
                 "owner": "rossjrw",
                 "repo": "rossjrw",
@@ -942,7 +942,7 @@
                 "id": 279555795,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-01T06:21:44Z",
+                "last_commit": "2026-11-14T06:59:20Z",
                 "open_issues": 4,
                 "owner": "anmol098",
                 "repo": "anmol098",
@@ -1243,7 +1243,7 @@
                 "open_issues": 7,
                 "owner": "andyruwruw",
                 "repo": "andyruwruw",
-                "stars": 291,
+                "stars": 292,
                 "topics": [
                   "chesscom",
                   "profile-readme",
@@ -1270,7 +1270,7 @@
                 "open_issues": 7,
                 "owner": "andyruwruw",
                 "repo": "andyruwruw",
-                "stars": 291,
+                "stars": 292,
                 "topics": [
                   "chesscom",
                   "profile-readme",
@@ -1539,7 +1539,7 @@
                 "open_issues": 32,
                 "owner": "trinib",
                 "repo": "trinib",
-                "stars": 516,
+                "stars": 517,
                 "topics": [
                   "animations",
                   "awesome",
@@ -1690,7 +1690,7 @@
                 "id": 277297834,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-13T07:02:52Z",
+                "last_commit": "2026-11-14T06:52:32Z",
                 "open_issues": 0,
                 "owner": "ApoorvTyagi",
                 "repo": "ApoorvTyagi",
@@ -1788,7 +1788,7 @@
                 "id": 284056602,
                 "language": "Markdown",
                 "license": null,
-                "last_commit": "2026-11-13T06:17:50Z",
+                "last_commit": "2026-11-14T05:18:00Z",
                 "open_issues": 0,
                 "owner": "cxyfreedom",
                 "repo": "cxyfreedom",
@@ -1945,7 +1945,7 @@
                 "id": 418752305,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-13T05:50:25Z",
+                "last_commit": "2026-11-14T05:39:44Z",
                 "open_issues": 0,
                 "owner": "holic-x",
                 "repo": "holic-x",
@@ -2895,7 +2895,7 @@
                 "open_issues": 2,
                 "owner": "CyrisXD",
                 "repo": "CyrisXD",
-                "stars": 198,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -2907,21 +2907,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": ":octocat: Matyo91 Github Profile",
+                "description": "Read-only profile mirror of darkwood-com/darkwood: library/matyo91",
                 "homepage": "https://twitter.com/matyo91",
                 "id": 278464483,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-11-09T20:11:18Z",
+                "last_commit": "2026-11-14T08:55:37Z",
                 "open_issues": 0,
                 "owner": "matyo91",
                 "repo": "matyo91",
                 "stars": 138,
                 "topics": [
                   "awesome-profile",
+                  "darkwood-monorepo",
+                  "distribution-mirror",
                   "github",
                   "github-profile",
                   "github-profile-readme",
+                  "read-only",
                   "readme",
                   "readme-profile"
                 ]
@@ -3025,7 +3028,7 @@
                 "open_issues": 0,
                 "owner": "HerXayah",
                 "repo": "HerXayah",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "anime",
                   "anime-readme-profile",
@@ -3081,7 +3084,7 @@
                 "open_issues": 1,
                 "owner": "Xx-Ashutosh-xX",
                 "repo": "Xx-Ashutosh-xX",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3102,7 +3105,7 @@
                 "open_issues": 0,
                 "owner": "yuna0x0",
                 "repo": "yuna0x0",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "github-profile"
                 ]
@@ -3205,7 +3208,7 @@
                 "id": 279389580,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-12T18:13:22Z",
+                "last_commit": "2026-11-13T18:12:19Z",
                 "open_issues": 3,
                 "owner": "MrStanDu33",
                 "repo": "MrStanDu33",
@@ -3226,7 +3229,7 @@
                 "id": 279689373,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-12T11:08:03Z",
+                "last_commit": "2026-11-14T11:06:54Z",
                 "open_issues": 0,
                 "owner": "orhun",
                 "repo": "orhun",
@@ -3501,7 +3504,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "sindresorhus",
-                "stars": 498,
+                "stars": 500,
                 "topics": [
                   "dinosaur",
                   "unicorn"
@@ -3542,7 +3545,7 @@
                 "id": 276002494,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T05:42:16Z",
+                "last_commit": "2026-11-14T05:32:01Z",
                 "open_issues": 3,
                 "owner": "xrkffgg",
                 "repo": "xrkffgg",
@@ -3572,7 +3575,7 @@
                 "open_issues": 7,
                 "owner": "SP-XD",
                 "repo": "SP-XD",
-                "stars": 96,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:47.047Z"
@@ -3997,7 +4000,7 @@
                 "id": 282798243,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-13T03:53:02Z",
+                "last_commit": "2026-11-14T03:51:42Z",
                 "open_issues": 4,
                 "owner": "dailyrandomphoto",
                 "repo": "dailyrandomphoto",
@@ -4043,7 +4046,7 @@
                 "open_issues": 2,
                 "owner": "akasrai",
                 "repo": "akasrai",
-                "stars": 59,
+                "stars": 58,
                 "topics": [
                   "github",
                   "markdown",
@@ -4116,7 +4119,7 @@
                 "id": 278383856,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-13T12:12:49Z",
+                "last_commit": "2026-11-14T12:11:10Z",
                 "open_issues": 0,
                 "owner": "Coordinate-Cat",
                 "repo": "Coordinate-Cat",
@@ -4459,7 +4462,7 @@
                 "id": 278505738,
                 "language": "R",
                 "license": null,
-                "last_commit": "2026-11-13T05:05:39Z",
+                "last_commit": "2026-11-14T04:57:27Z",
                 "open_issues": 0,
                 "owner": "terrytangyuan",
                 "repo": "terrytangyuan",
@@ -4655,7 +4658,7 @@
             "open_issues": 299,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79845,
+            "stars": 79843,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -4682,7 +4685,7 @@
             "open_issues": 1042,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26212,
+            "stars": 26219,
             "topics": [
               "brand",
               "brand-assets",
@@ -4723,7 +4726,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24478,
+            "stars": 24481,
             "topics": [
               "gatsby",
               "generator",
@@ -4752,7 +4755,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17182,
+            "stars": 17188,
             "topics": [
               "badges-markdown",
               "branding",
@@ -4781,7 +4784,7 @@
             "open_issues": 31,
             "owner": "DenverCoder1",
             "repo": "readme-typing-svg",
-            "stars": 9523,
+            "stars": 9524,
             "topics": [
               "animation",
               "dynamic",
@@ -4812,7 +4815,7 @@
             "open_issues": 79,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7209,
+            "stars": 7213,
             "topics": [
               "dynamic",
               "github",
@@ -4846,7 +4849,7 @@
             "open_issues": 34,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6686,
+            "stars": 6687,
             "topics": [
               "deno",
               "github",
@@ -4880,7 +4883,7 @@
             "open_issues": 74,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 4008,
+            "stars": 4009,
             "topics": [
               "awesome",
               "profile",
@@ -4908,7 +4911,7 @@
             "open_issues": 0,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3453,
+            "stars": 3454,
             "topics": [
               "activity",
               "blog",
@@ -4976,7 +4979,7 @@
             "open_issues": 3,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1838,
+            "stars": 1839,
             "topics": [
               "profile-page",
               "readme",
@@ -5621,7 +5624,7 @@
             "open_issues": 0,
             "owner": "egorthinks",
             "repo": "git-bonsai",
-            "stars": 33,
+            "stars": 35,
             "topics": [
               "bonsai",
               "dynamic-readme",
@@ -5678,7 +5681,7 @@
             "id": 1306297307,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T04:50:01Z",
+            "last_commit": "2026-11-14T04:43:34Z",
             "open_issues": 0,
             "owner": "dahan8473",
             "repo": "snake-and-commits",
@@ -5750,11 +5753,11 @@
             "id": 1183098098,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T05:20:01Z",
+            "last_commit": "2026-11-14T12:33:38Z",
             "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-insight-terminal-ascii",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "ascii-art",
               "contribution-graph",
@@ -5826,7 +5829,7 @@
             "id": 1324327913,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T06:57:37Z",
+            "last_commit": "2026-11-14T06:45:15Z",
             "open_issues": 0,
             "owner": "knowprasad",
             "repo": "YourTomo",
@@ -5868,7 +5871,7 @@
             "id": 1309742988,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T04:53:13Z",
+            "last_commit": "2026-11-14T04:46:47Z",
             "open_issues": 0,
             "owner": "flycran",
             "repo": "github-gravity",
@@ -5921,6 +5924,34 @@
         },
         {
           "node_type": "item",
+          "title": "Dither Portrait",
+          "description": "Turn a photo into an animated dithered SVG for your profile README, with a browser playground to preview it",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Turn a photo into an animated dithered SVG for your GitHub profile README",
+            "homepage": null,
+            "id": 1316030851,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-29T13:19:47Z",
+            "open_issues": 0,
+            "owner": "0xharkirat",
+            "repo": "dither-portrait",
+            "stars": 3,
+            "topics": [
+              "dithering",
+              "generative-art",
+              "github-actions",
+              "github-profile-readme",
+              "readme",
+              "svg"
+            ]
+          },
+          "first_seen": "2026-09-12T12:13:41.427Z"
+        },
+        {
+          "node_type": "item",
           "title": "github-candles",
           "description": "Render your GitHub contributions as a self-updating trading candlestick chart.",
           "children": [],
@@ -5931,7 +5962,7 @@
             "id": 1300045378,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T21:42:00Z",
+            "last_commit": "2026-11-13T21:09:08Z",
             "open_issues": 0,
             "owner": "starlash7",
             "repo": "github-candles",
@@ -5956,40 +5987,12 @@
             "id": 992646715,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-13T00:10:13Z",
+            "last_commit": "2026-11-14T00:10:01Z",
             "open_issues": 1,
             "owner": "in-c0",
             "repo": "daily-badge",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-09-12T12:13:41.427Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Dither Portrait",
-          "description": "Turn a photo into an animated dithered SVG for your profile README, with a browser playground to preview it",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn a photo into an animated dithered SVG for your GitHub profile README",
-            "homepage": null,
-            "id": 1316030851,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-07-29T13:19:47Z",
-            "open_issues": 0,
-            "owner": "0xharkirat",
-            "repo": "dither-portrait",
-            "stars": 2,
-            "topics": [
-              "dithering",
-              "generative-art",
-              "github-actions",
-              "github-profile-readme",
-              "readme",
-              "svg"
-            ]
           },
           "first_seen": "2026-09-12T12:13:41.427Z"
         },
@@ -6016,37 +6019,6 @@
         },
         {
           "node_type": "item",
-          "title": "vinilo",
-          "description": "Your recently played Spotify tracks as a static SVG, built in your own GitHub Actions and committed to your own branch, so no third-party service holds your token",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Your recently played Spotify tracks as a static SVG in your README. No server, no handing over your token.",
-            "homepage": null,
-            "id": 1363407263,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-09-13T03:22:03Z",
-            "open_issues": 0,
-            "owner": "icortesb",
-            "repo": "vinilo",
-            "stars": 1,
-            "topics": [
-              "github-action",
-              "github-actions",
-              "music",
-              "nodejs",
-              "readme-card",
-              "readme-profile",
-              "spotify",
-              "spotify-api",
-              "svg"
-            ]
-          },
-          "first_seen": "2026-09-12T12:13:41.427Z"
-        },
-        {
-          "node_type": "item",
           "title": "GitHub Readme Zodiac",
           "description": "Zodiac-themed SVG profile cards and pinned Gists from your GitHub activity.",
           "children": [],
@@ -6061,7 +6033,7 @@
             "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-zodiac",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "astrology",
               "github-actions",
@@ -6096,7 +6068,7 @@
             "open_issues": 0,
             "owner": "seuthootDev",
             "repo": "github-readme-chinese-zodiac",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "asian-zodiac",
               "chinese-zodiac",
@@ -6114,13 +6086,44 @@
             ]
           },
           "first_seen": "2026-09-12T12:13:41.427Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vinilo",
+          "description": "Your recently played Spotify tracks as a static SVG, built in your own GitHub Actions and committed to your own branch, so no third-party service holds your token",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your recently played Spotify tracks as a static SVG in your README. No server, no handing over your token.",
+            "homepage": null,
+            "id": 1363407263,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-09-13T03:22:03Z",
+            "open_issues": 0,
+            "owner": "icortesb",
+            "repo": "vinilo",
+            "stars": 1,
+            "topics": [
+              "github-action",
+              "github-actions",
+              "music",
+              "nodejs",
+              "readme-card",
+              "readme-profile",
+              "spotify",
+              "spotify-api",
+              "svg"
+            ]
+          },
+          "first_seen": "2026-09-12T12:13:41.427Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:33:29.887Z",
+    "last_updated": "2026-11-14T15:12:05.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome GitHub Profile which updates in real time ",
@@ -6129,10 +6132,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-11T23:08:19Z",
-      "open_issues": 761,
+      "open_issues": 763,
       "owner": "abhisheknaiidu",
       "repo": "awesome-github-profile-readme",
-      "stars": 31598,
+      "stars": 31604,
       "topics": [
         "awesome",
         "awesome-list",
